@@ -212,6 +212,8 @@ You acknowledge and agree that we may access your email address book associated 
 
 You can deactivate the connection between the Site and your Third-Party Account by contacting us using the contact information below or through your account settings (if applicable). We will attempt to delete any information stored on our servers that was obtained through such Third-Party Account, except the username and profile picture that become associated with your account.
 
+Please note that Inspo is no way related to or associated with TikTok or Bytedance. You can simply paste links to TikTok videos in the app in order to save their favorite recipes.
+
 ## SUBMISSIONS
 
 You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information regarding the Site ("Submissions") provided by you to us are non-confidential and shall become our sole property. We shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Submissions for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you.
