@@ -1,173 +1,462 @@
----
-layout: page
-title: Privacy Policy
-include_in_header: true
----
+# Inspo Privacy Policy
 
-**Last updated**  
-September 28, 2023
+**Effective Date:** May 28, 2026
+**Company:** PineconeLabs LLC
+**Contact:** [insporecipeapp@gmail.com](mailto:insporecipeapp@gmail.com)
 
-# Privacy Policy
+## Our Commitment to Privacy
 
-Avi Khemani (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the “Application”). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
+PineconeLabs LLC (“PineconeLabs,” “we,” “us,” or “our”) operates Inspo, a mobile application that helps users save, import, organize, parse, extract, and manage recipes, recipe videos, grocery-related information, meal ideas, cooking content, subscriptions, and related features (collectively, the “Service”).
 
-We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.
+This Privacy Policy explains how we collect, use, store, disclose, and protect information when you access or use the Service.
 
-This Privacy Policy does not apply to the third-party online/mobile store from which you install the Application or make payments, including any in-game virtual items, which may also collect and use data about you. We are not responsible for any of the data collected by any such third party.
+Inspo is designed as a recipe organization and cooking productivity app. Inspo is not a medical service, healthcare provider, nutritionist, dietitian, allergy specialist, food safety authority, or substitute for professional medical, dietary, nutritional, allergy, or health advice.
 
-## COLLECTION OF YOUR INFORMATION
+By using the Service, you agree to the collection, use, disclosure, and handling of information as described in this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Service.
 
-We may collect information about you in a variety of ways. The information we may collect via the Application depends on the content and materials you use, and includes:
+## 1. Scope of This Privacy Policy
 
-###  Personal Data
+This Privacy Policy applies to information collected through the Inspo mobile application, related websites, backend systems, account features, recipe extraction features, image upload features, recipe video features, subscription features, analytics, advertising measurement, and support communications.
 
-Demographic and other personally identifiable information (such as your name and email address) that you voluntarily give to us when choosing to participate in various activities related to the Application, such as chat, posting messages in comment sections or in our forums, liking posts, sending feedback, and responding to surveys. If you choose to share data about yourself via your profile, online chat, or other interactive areas of the Application, please be advised that all data you disclose in these areas is public and your data will be accessible to anyone who accesses the Application.
+This Privacy Policy does not apply to third-party websites, recipe source websites, app stores, advertising platforms, payment processors, social media platforms, video platforms, or other third-party services that we do not control. Those third parties may have their own privacy policies and terms.
 
-### Mobile Device Access
+## 2. Information We Collect
 
-We may request access or permission to certain features from your mobile device, including your mobile device’s camera photo library. If you wish to change our access or permissions, you may do so in your device’s settings.
+The information we collect depends on how you use the Service.
 
-### Mobile Device Data
+## 2.1 Account and Authentication Information
 
-Device information such as your mobile device ID number, model, and manufacturer, version of your operating system, phone number, country, location, and any other data you choose to provide.
+When you create or use an Inspo account, we may collect and process information needed to authenticate you and provide account functionality.
 
-### Push Notifications
+This may include:
 
-We may request to send you push notifications regarding your account or the Application. If you wish to opt-out from receiving these types of communications, you may turn them off in your device’s settings.
+* Email address
+* User ID
+* Login identifiers
+* Authentication tokens
+* Account creation date
+* Sign-in method
+* Device and session information
+* Account status
+* Password-related authentication information, where applicable
 
-## USE OF YOUR INFORMATION
+We use authentication and cloud infrastructure service providers to help create, secure, and manage user accounts.
 
-Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Application to:
+## 2.2 Recipe, URL, Image, Video Thumbnail, and App Content
 
-Compile anonymous statistical data and analysis for use internally or with third parties.
-Create and manage your account.
-Deliver targeted advertising, coupons, newsletters, and other information regarding promotions and the Application to you.
-Email you regarding your account or order.
-Enable user-to-user communications.
-Generate a personal profile about you to make future visits to the Application more personalized.
-Increase the efficiency and operation of the Application.
-Monitor and analyze usage and trends to improve your experience with the Application.
-Notify you of updates to the Application.
-Offer new products, services, mobile applications, and/or recommendations to you.
-Perform other business activities as needed.
-Request feedback and contact you about your use of the Application.
-Resolve disputes and troubleshoot problems.
-Respond to product and customer service requests.
-Send you a newsletter.
-Solicit support for the Application.
+When you use Inspo, you may provide, upload, create, save, import, or organize content in the Service.
 
-## DISCLOSURE OF YOUR INFORMATION
+This may include:
 
-We may share information we have collected about you in certain situations. Your information may be disclosed as follows:
+* Recipes you save
+* Recipe URLs you submit
+* Recipe video links you submit
+* Recipe titles
+* Ingredients
+* Instructions
+* Cooking notes
+* Meal ideas
+* Folders or collections
+* Grocery lists
+* Meal plans
+* Uploaded images used for recipe extraction
+* Images, screenshots, or photos you submit to create or extract recipes
+* Images or thumbnails associated with recipe videos or video links you submit
+* Imported recipe content
+* Recipe images or metadata, where available
+* Other information you choose to add to the Service
 
-### By Law or to Protect Rights
+We may store this content so that the Service can provide recipe extraction, recipe organization, recipe display, cloud sync, account access, thumbnails, saved recipes, grocery lists, meal plans, and related functionality.
 
-If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction.
+You are responsible for the content you submit, upload, save, import, or organize through the Service.
 
-### Third-Party Service Providers
+Please do not upload or submit images, URLs, notes, recipes, screenshots, video thumbnails, or other content that contains personal, sensitive, confidential, medical, legal, financial, or emergency information.
 
-We may share your information with third parties that perform services for us or on our behalf, including payment processing, data analysis, email delivery, hosting services, customer service, and marketing assistance.
+If you upload an image or submit a video link, the image or thumbnail may be processed and stored to provide the Service. We do not use uploaded recipe images or video thumbnails for biometric identification, facial recognition, identity verification, or authentication.
 
-### Marketing Communications
+## 2.3 Recipe Extraction, URL Parsing, Images, and AI Processing
 
-With your consent, or with an opportunity for you to withdraw consent, we may share your information with third parties for marketing purposes, as permitted by law.
+Inspo may allow you to submit URLs, images, screenshots, photos, video links, recipe text, or other content so the Service can fetch, parse, extract, summarize, reformat, or organize recipe-related information.
 
-### Interactions with Other Users
+To provide these features, we may process your submitted content using third-party service providers, including providers that support URL parsing, image processing, recipe extraction, and artificial intelligence functionality.
 
-If you interact with other users of the Application, those users may see your name, profile photo, and descriptions of your activity, including sending invitations to other users, chatting with other users, liking posts, following blogs.
+This may include sending submitted URLs, images, screenshots, recipe text, video thumbnail information, or related content to AI service providers, including OpenAI, so that recipe titles, ingredients, instructions, grocery lists, summaries, nutrition-related information, or other recipe-related content can be generated or organized.
 
-### Online Postings
+You should not submit content that contains personal, sensitive, confidential, medical, legal, financial, or emergency information.
 
-When you post comments, contributions or other content to the Applications, your posts may be viewed by all users and may be publicly distributed outside the Application in perpetuity
+Third-party websites may have their own terms, privacy policies, copyright rules, robots.txt rules, access restrictions, and content restrictions. We do not control third-party websites and cannot guarantee that content from a submitted URL will be available, accurate, lawful, complete, current, safe, or formatted correctly.
 
-### Third-Party Advertisers
+Recipe extraction, image processing, AI outputs, and URL parsing may be inaccurate, incomplete, outdated, unavailable, or different from the original source.
 
-We may use third-party advertising companies to serve ads when you visit the Application. These companies may use information about your visits to the Application and other websites that are contained in web cookies in order to provide advertisements about goods and services of interest to you.
+## 2.4 Purchase and Subscription Information
 
-### Affiliates
+If you make an in-app purchase or start a subscription, your purchase is processed by the applicable app store, such as the Apple App Store or Google Play.
 
-We may share your information with our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.
+We and our purchase infrastructure providers may receive or process information related to your purchase or subscription, such as:
 
-### Business Partners
+* Subscription status
+* Product identifiers
+* Purchase history
+* Trial status
+* Renewal status
+* Cancellation status
+* Entitlement status
+* Anonymous app user identifiers
+* App store transaction information
 
-We may share your information with our business partners to offer you certain products, services or promotions.
+We do not directly receive your full payment card number. Payments, refunds, and billing are handled by the applicable app store or payment provider.
 
-### Other Third Parties
+## 2.5 App Usage, Analytics, and Diagnostics
 
-We may share your information with advertisers and investors for the purpose of conducting general business analysis. We may also share your information with such third parties for marketing purposes, as permitted by law.
+When you use the Service, we and our analytics or infrastructure providers may collect information about how you interact with Inspo.
 
-### Sale or Bankruptcy
+This may include:
 
-If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity. If we go out of business or enter bankruptcy, your information would be an asset transferred or acquired by a third party. You acknowledge that such transfers may occur and that the transferee may decline honor commitments we made in this Privacy Policy.
+* App interactions
+* Feature usage
+* Session activity
+* Screens viewed
+* Button taps or events
+* Recipe save events
+* Recipe import events
+* URL submission events
+* Image upload events
+* Recipe extraction events
+* Onboarding events
+* Purchase funnel events
+* Subscription events
+* Device type
+* Operating system
+* App version
+* Language or region settings
+* Approximate technical identifiers
+* Performance information
+* Crash logs and diagnostics
+* Network and security information
+
+We use this information to understand app usage, improve the Service, fix bugs, measure performance, develop features, prevent abuse, and maintain security.
+
+## 2.6 Advertising, Attribution, and Tracking Information
+
+We may use advertising, attribution, and measurement tools to understand the effectiveness of our ads, measure installs and purchases, optimize campaigns, prevent fraud, and improve our marketing.
+
+This may include:
+
+* App install events
+* App launch events
+* Purchase or subscription events
+* Trial start events
+* App engagement events
+* Device information
+* Advertising identifiers where available and permitted
+* IP address or approximate location inferred from IP address
+* Event timestamps
+* Campaign attribution information
+* Technical identifiers
+* Fraud prevention and security signals
+
+On iOS, where required by Apple’s App Tracking Transparency framework, we may request your permission before tracking your activity across other companies’ apps and websites for advertising, attribution, or measurement purposes.
+
+If you allow tracking, information may be used for advertising attribution, measurement, personalization, campaign optimization, and related purposes. If you do not allow tracking, certain advertising identifiers may not be available, but we and our service providers may still process information for permitted purposes such as security, fraud prevention, subscription functionality, app analytics, diagnostics, and non-tracking measurement.
+
+You can manage tracking and advertising preferences through your device settings.
+
+## 2.7 Device, Technical, and Security Information
+
+We and our service providers may process technical information necessary to operate, secure, debug, and improve the Service.
+
+This may include:
+
+* Device model
+* Operating system
+* App version
+* Browser or in-app browser information, where applicable
+* Crash logs
+* Performance data
+* General diagnostics
+* Network information
+* Security information
+* Approximate region or language settings
+* Technical identifiers
+
+## 2.8 Support and Communications
+
+If you contact us for support, feedback, questions, or complaints, we may collect the information you choose to provide.
+
+This may include:
+
+* Email address
+* Name, if you provide it
+* Message content
+* Screenshots or attachments, if you provide them
+* App issue details
+* Device or diagnostic information
+* Communications with us
 
-We are not responsible for the actions of third parties with whom you share personal or sensitive data, and we have no authority to manage or control third-party solicitations. If you no longer wish to receive correspondence, emails or other communications from third parties, you are responsible for contacting the third party directly.
+We use this information to respond to you, provide support, investigate issues, improve the Service, and protect our rights.
 
-## TRACKING TECHNOLOGIES
+## 2.9 Sensitive Information
 
-### Cookies and Web Beacons
+Inspo is not intended to collect sensitive personal information, medical records, health records, therapy records, emergency information, financial account information, government identification, or confidential information.
 
-We may use cookies, web beacons, tracking pixels, and other tracking technologies on the Application to help customize the Application and improve your experience. When you access the Application, your personal information is not collected through the use of tracking technology. Most browsers are set to accept cookies by default. You can remove or reject cookies, but be aware that such action could affect the availability and functionality of the Application. You may not decline web beacons. However, they can be rendered ineffective by declining all cookies or by modifying your web browser’s settings to notify you each time a cookie is tendered, permitting you to accept or decline cookies on an individual basis.
+However, you may choose to submit information that could be sensitive, such as dietary preferences, allergies, nutrition goals, grocery preferences, health-related notes, or images that contain personal information.
 
-### Internet-Based Advertising
+Please do not submit sensitive information unless you understand that it may be processed as described in this Privacy Policy.
 
-Additionally, we may use third-party software to serve ads on the Application, implement email marketing campaigns, and manage other interactive marketing initiatives. This third-party software may use cookies or similar tracking technology to help manage and optimize your online experience with us. For more information about opting-out of interest-based ads, visit the Network Advertising Initiative Opt-Out Tool or Digital Advertising Alliance Opt-Out Tool.
+If you have allergies, medical conditions, dietary restrictions, pregnancy-related needs, or other health concerns, you should consult a qualified professional and independently verify all recipes, ingredients, nutrition information, and allergen information.
 
-### Website Analytics
+## 3. How We Use Information
 
-We may also partner with selected third-party vendors, such as [List any third-party analytics that your mobile app uses (eg. Google Analytics)] to allow tracking technologies and remarketing services on the Application through the use of first party cookies and third-party cookies, to, among other things, analyze and track users’ use of the Application, determine the popularity of certain content, and better understand online activity. By accessing the Application, you consent to the collection and use of your information by these third-party vendors. You are encouraged to review their privacy policy and contact them directly for responses to your questions. We do not transfer personal information to these third-party vendors.
+We may use information collected or processed through the Service to:
 
-You should be aware that getting a new computer, installing a new browser, upgrading an existing browser, or erasing or otherwise altering your browser’s cookies files may also clear certain opt-out cookies, plug-ins, or settings.
+* Provide, operate, maintain, and improve Inspo
+* Authenticate users and manage accounts
+* Save, sync, organize, and display recipes and related content
+* Store uploaded images, screenshots, recipe thumbnails, video thumbnails, and related content
+* Fetch, parse, extract, summarize, or organize recipe information from submitted URLs, images, screenshots, video links, and recipe text
+* Use AI-assisted tools, including OpenAI, to extract, format, summarize, or organize recipe-related information
+* Generate or display recipe titles, ingredients, instructions, thumbnails, grocery lists, meal plans, or related content
+* Enable purchases, subscriptions, trials, and entitlement verification
+* Restore purchases
+* Analyze app usage and improve the Service
+* Develop, test, and improve features
+* Personalize or improve the user experience
+* Debug crashes and technical issues
+* Provide customer support
+* Measure advertising performance
+* Attribute installs, purchases, trials, and other app events to ad campaigns
+* Optimize advertising campaigns
+* Prevent fraud, abuse, and misuse
+* Maintain security and reliability
+* Comply with legal obligations
+* Enforce our Terms of Use
+* Protect the rights, safety, and property of PineconeLabs, users, service providers, source websites, and others
 
-## THIRD-PARTY WEBSITES
+## 4. How We Share or Disclose Information
 
-The Application may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the Application, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the Application.
+We may share or disclose information in the following circumstances.
 
-Please note that Inspo is no way related to or associated with TikTok or Bytedance. You can simply paste links to TikTok videos in the app in order to save their favorite recipes.
+## 4.1 Service Providers
 
-## SECURITY OF YOUR INFORMATION
+We may share information with service providers that help us operate the Service, including providers that support:
 
-We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
+* Authentication
+* Cloud database storage
+* File and image storage
+* Cloud functions and backend infrastructure
+* Analytics
+* App performance and diagnostics
+* Purchases and subscriptions
+* Advertising measurement and attribution
+* URL parsing and recipe extraction
+* Image processing and recipe extraction
+* Artificial intelligence and machine learning functionality used for recipe extraction, image processing, text parsing, formatting, summarization, and related app functionality
+* App distribution
+* Security and fraud prevention
+* Technical infrastructure
+* Customer support
+* Legal and compliance operations
 
-## POLICY FOR CHILDREN
+These providers may process information according to their own terms, privacy policies, and data processing practices.
 
-We do not knowingly solicit information from or market to children under the age of 13. If you become aware of any data we have collected from children under age 13, please contact us using the contact information provided below.
+## 4.2 App Stores and Platform Providers
 
-## CONTROLS FOR DO-NOT-TRACK FEATURES
+Your use of Inspo may involve Apple, Google, or other platform providers.
 
-Most web browsers and some mobile operating systems [and our mobile applications] include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy.
+App stores and platform providers may independently collect, process, and control information related to:
 
-## OPTIONS REGARDING YOUR INFORMATION
+* App downloads
+* Purchases
+* Subscriptions
+* Refunds
+* Device settings
+* App ratings and reviews
+* App store accounts
+* Payment processing
+* Platform security and compliance
 
-### Account Information
+We do not control Apple’s, Google’s, or other platform providers’ privacy practices.
 
-You may at any time review or change the information in your account or terminate your account by:
+## 4.3 Advertising and Measurement Partners
 
-Logging into your account settings and updating your account
-Contacting us using the contact information provided below
+We may share certain app event, device, purchase, subscription, and attribution information with advertising and measurement partners to measure ad performance, optimize campaigns, prevent fraud, and understand the effectiveness of our marketing.
 
-Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.
+Depending on your device settings, consent choices, region, and applicable law, this sharing may be limited or may require your permission.
 
-### Emails and Communications
+## 4.4 URL Parsing, AI Processing, and External Content Providers
 
-If you no longer wish to receive correspondence, emails, or other communications from us, you may opt-out by:
+When you submit a URL, image, screenshot, photo, video link, recipe text, or other content, we may share the submitted content and related technical information with service providers that help fetch, parse, extract, summarize, format, or organize recipe-related information.
 
-Noting your preferences at the time you register your account with the Application
-Logging into your account settings and updating your preferences.
-Contacting us using the contact information provided below
-If you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly.
+This may include AI service providers, including OpenAI, for recipe extraction and related app functionality.
 
-## CALIFORNIA PRIVACY RIGHTS
+We may also interact with the third-party website associated with a submitted URL in order to retrieve publicly available or user-directed content.
 
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+## 4.5 Legal, Safety, and Security Reasons
 
-If you are under 18 years of age, reside in California, and have a registered account with the Application, you have the right to request removal of unwanted data that you publicly post on the Application. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Application, but please be aware that the data may not be completely or comprehensively removed from our systems.
+We may disclose information if we believe it is necessary to:
 
-## CONTACT US
+* Comply with applicable law, regulation, legal process, subpoena, court order, or government request
+* Enforce our Terms of Use
+* Detect, prevent, or address fraud, abuse, security, or technical issues
+* Protect the rights, property, or safety of PineconeLabs, users, service providers, source websites, or others
+* Respond to emergencies or potential harm
+* Establish, exercise, or defend legal claims
 
-If you have questions or comments about this Privacy Policy, please contact us at:
+## 4.6 Business Transfers
 
-Avi Khemani
+If PineconeLabs is involved in a merger, acquisition, financing, reorganization, sale of assets, bankruptcy, or similar transaction, information may be transferred as part of that transaction.
 
-650-575-4389
+## 4.7 With Your Direction or Consent
 
-avi.khemani888@gmail.com
+We may share information when you direct us to do so or otherwise provide consent.
+
+## 5. Advertising, Tracking, and Analytics
+
+We may use analytics, advertising, attribution, and measurement tools to understand app usage, improve the Service, measure ad performance, attribute installs and purchases, optimize campaigns, and prevent fraud or abuse.
+
+We do not sell your personal information for money.
+
+Certain advertising, analytics, attribution, or measurement practices may be considered “sharing,” “targeted advertising,” “cross-context behavioral advertising,” “tracking,” or similar concepts under some privacy laws, depending on how those laws apply.
+
+Where required, we will request consent or provide choices. On iOS, this may include Apple’s App Tracking Transparency permission prompt.
+
+You may be able to limit tracking, personalized advertising, advertising identifiers, or app tracking through your device settings, app store settings, operating system settings, or in-app settings where available.
+
+## 6. Third-Party Websites and Content
+
+The Service may interact with, link to, fetch from, parse, summarize, extract from, or display information from third-party websites, including recipe websites, social platforms, video platforms, publisher websites, blogs, and other online sources.
+
+We do not control third-party websites, recipes, content, policies, availability, accuracy, legality, copyright restrictions, safety, or security.
+
+Your use of third-party websites may be subject to their own terms, privacy policies, copyright rules, and restrictions.
+
+We are not responsible for third-party websites or content.
+
+## 7. Food, Nutrition, Allergy, and Health Information
+
+Inspo may display, organize, extract, estimate, or process recipe, ingredient, grocery, calorie, nutrition, allergen, dietary, or cooking-related information.
+
+This information may come from user submissions, third-party websites, automated parsing, AI processing, uploaded images, video thumbnails, third-party providers, or other sources.
+
+We do not guarantee that recipe, ingredient, nutrition, calorie, allergen, dietary, grocery, or cooking information is accurate, complete, current, safe, or suitable for you.
+
+Inspo is not a medical, nutrition, dietetic, allergy, food safety, or healthcare service. You should consult a qualified professional before making medical, dietary, allergy, weight-loss, pregnancy-related, or health-related decisions.
+
+If you have allergies, dietary restrictions, medical conditions, pregnancy-related needs, or other health concerns, you are responsible for independently verifying ingredients, allergens, nutritional information, food safety, and recipe suitability.
+
+## 8. Data Retention
+
+We retain information only for as long as reasonably necessary for the purposes described in this Privacy Policy, unless a longer retention period is required or permitted by law.
+
+Retention periods may vary depending on the type of information and the service provider involved.
+
+For example:
+
+* Account information may be retained while your account remains active.
+* Saved recipes, folders, grocery lists, meal plans, uploaded images, video thumbnails, submitted URLs, extracted recipe information, and related content may be retained while your account remains active or until deleted, subject to legal, security, backup, technical, and compliance exceptions.
+* Purchase and subscription records may be retained as needed for entitlement verification, accounting, fraud prevention, refunds, and legal compliance.
+* Analytics and diagnostic information may be retained to understand app performance, improve the Service, and troubleshoot issues.
+* Advertising and attribution information may be retained by advertising or measurement providers according to their applicable policies.
+* URL parsing, AI processing, image processing, and recipe extraction information may be retained as needed to provide, debug, secure, and improve the Service.
+* Support communications may be retained as needed to respond to you, resolve issues, and protect our rights.
+
+## 9. Security and Storage
+
+We use reasonable administrative, technical, and organizational measures designed to protect information processed through the Service.
+
+However, no app, website, network, system, database, cloud service, or transmission is completely secure. We cannot guarantee absolute security.
+
+You are responsible for maintaining the confidentiality of your account credentials and for any activity associated with your account.
+
+You should use a strong password, keep your device secure, and contact us if you believe your account has been accessed without authorization.
+
+You use the Service at your own risk.
+
+## 10. Account Deletion and Data Deletion
+
+You may request deletion of your account or certain personal information by contacting us at [insporecipeapp@gmail.com](mailto:insporecipeapp@gmail.com) or by using in-app deletion tools if available.
+
+When you request deletion, we will take reasonable steps to delete or de-identify information associated with your account, subject to legal, security, fraud prevention, technical, backup, dispute resolution, accounting, and compliance exceptions.
+
+Some information may continue to be retained where required or permitted by law, including records needed to process purchases, prevent fraud, resolve disputes, enforce agreements, comply with legal obligations, or maintain the security and integrity of the Service.
+
+Content that has already been processed by third-party providers, including AI service providers, may be subject to those providers’ retention practices.
+
+## 11. Your Choices
+
+Depending on your device, region, and applicable law, you may have choices regarding your information.
+
+These may include:
+
+* Managing account information in the app
+* Deleting saved recipes or other content
+* Requesting account deletion
+* Managing app tracking permission through device settings
+* Limiting ad tracking through device settings
+* Resetting your advertising identifier
+* Managing app permissions
+* Managing subscriptions through the Apple App Store or Google Play
+* Deleting the app from your device
+* Contacting us with privacy requests
+
+## 12. Privacy Rights
+
+Depending on where you live, you may have rights regarding your personal information, such as the right to:
+
+* Request access to information
+* Request deletion of information
+* Request correction of information
+* Request portability of information
+* Object to or restrict certain processing
+* Opt out of certain advertising, sharing, targeted advertising, or tracking activities
+* Withdraw consent where processing is based on consent
+* Appeal certain privacy decisions, where applicable
+
+To make a privacy request, contact us at [insporecipeapp@gmail.com](mailto:insporecipeapp@gmail.com).
+
+We may need to verify your identity before fulfilling certain requests. Your rights may be subject to exceptions under applicable law.
+
+## 13. Children and Minors
+
+Inspo may be rated 4+ or otherwise made available to a broad general audience through app stores. However, Inspo is not directed to children, is not submitted or marketed as a Kids Category app, and is intended as a general recipe organization and cooking app for a general audience.
+
+We do not knowingly request or collect direct personal information from children under 13 without legally valid consent.
+
+If a minor uses Inspo, a parent or legal guardian should supervise the minor’s use of the Service, especially any account, sharing, URL submission, image upload, AI processing, advertising, tracking, purchase, subscription, or third-party content features.
+
+Children and minors should not submit personal information, sensitive information, medical information, legal information, financial information, confidential information, or emergency information into the Service.
+
+If you are a parent or guardian and believe your child has provided personal information through the Service, please contact us at [insporecipeapp@gmail.com](mailto:insporecipeapp@gmail.com) so we can review and, where appropriate, delete the information.
+
+Depending on your region, additional age-of-consent or parental-consent requirements may apply.
+
+## 14. International Users
+
+The Service may be operated from the United States and may use service providers located in the United States or other countries.
+
+If you use the Service from outside the United States, you understand that information may be processed in countries that may have different privacy laws than your country of residence.
+
+## 15. Jurisdiction-Specific Notices
+
+Depending on where you live, additional privacy rights or disclosures may apply under laws such as the California Consumer Privacy Act, other U.S. state privacy laws, the General Data Protection Regulation, the UK GDPR, or other applicable privacy laws.
+
+We do not sell your personal information for money. However, certain advertising, analytics, attribution, or measurement practices may be considered “sharing,” “targeted advertising,” “cross-context behavioral advertising,” or “tracking” under some laws.
+
+You may contact us at [insporecipeapp@gmail.com](mailto:insporecipeapp@gmail.com) to exercise privacy rights available to you under applicable law.
+
+## 16. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+If we make changes, we may update the effective date above and provide notice as required by applicable law.
+
+Your continued use of the Service after an updated Privacy Policy becomes effective means you accept the updated Privacy Policy.
+
+You should review this Privacy Policy periodically to stay informed about how we handle information.
+
+## 17. Contact Us
+
+If you have questions about this Privacy Policy, our privacy practices, or your privacy rights, contact us at:
+
+**PineconeLabs LLC**
+**Email:** [insporecipeapp@gmail.com](mailto:insporecipeapp@gmail.com)
