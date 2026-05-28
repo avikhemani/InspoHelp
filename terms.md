@@ -1,413 +1,439 @@
----
-layout: page
-title: Terms of Use
-include_in_header: true
----
+# Inspo Terms of Use
 
-**Last updated**  
-September 28, 2023
+**Effective Date:** May 28, 2026
+**Company:** PineconeLabs LLC
+**Contact:** [insporecipeapp@gmail.com](mailto:insporecipeapp@gmail.com)
 
-# Terms of Use
+These Terms of Use (“Terms”) govern your access to and use of Inspo, a mobile application that helps users save, import, organize, parse, extract, and manage recipes, recipe videos, grocery-related information, meal ideas, cooking content, subscriptions, and related features (collectively, the “Service”) operated by PineconeLabs LLC (“PineconeLabs,” “we,” “us,” or “our”).
 
-## AGREEMENT TO TERMS
+By downloading, accessing, registering for, or using the Service, you agree to these Terms. If you do not agree to these Terms, do not use the Service.
 
-These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Avi Khemani (“we,” “us” or “our”), concerning your access to and use of the Peak mobile app as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”).
+## 1. Important Notice
 
-You agree that by accessing the Site, you have read, understood, and agree to be bound by all of these Terms and Conditions. If you do not agree with all of these Terms and Conditions, then you are expressly prohibited from using the Site and you must discontinue use immediately.
+Inspo is a recipe organization, cooking productivity, and general lifestyle app.
 
-Supplemental terms and conditions or documents that may be posted on the Site from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms and Conditions at any time and for any reason.
+Inspo is not a medical service, healthcare provider, nutritionist, dietitian, allergy specialist, food safety authority, or substitute for professional advice.
 
-We will alert you about any changes by updating the “Last updated” date of these Terms and Conditions, and you waive any right to receive specific notice of each such change.
+Any recipe, ingredient, nutrition, calorie, grocery, meal planning, dietary, or cooking information provided through the Service is for general informational and convenience purposes only.
 
+You are solely responsible for verifying ingredients, allergens, nutrition information, food safety, cooking instructions, dietary suitability, and whether any recipe or food is appropriate for you.
 
+If you have allergies, dietary restrictions, medical conditions, pregnancy-related needs, or other health concerns, consult a qualified professional before relying on information from the Service.
 
+## 2. Eligibility, Age Rating, and Minors
 
-It is your responsibility to periodically review these Terms and Conditions to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms and Conditions by your continued use of the Site after the date such revised Terms and Conditions are posted.
+Inspo may be rated 4+ or otherwise made available to a broad general audience through app stores. However, Inspo is not directed to children, is not submitted or marketed as a Kids Category app, and is intended as a general recipe organization and cooking app for a general audience.
 
-The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country.
+If you are under the age of majority where you live, you may use the Service only with permission and supervision from a parent or legal guardian.
 
-Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable. 
+If you are a parent or legal guardian and allow a minor to use the Service, you are responsible for the minor’s use of the Service, including any account activity, purchases, subscriptions, tracking permissions, ads, URL submissions, image uploads, AI processing, third-party content, and content saved or submitted by the minor.
 
-All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Site. If you are a minor, you must have your parent or guardian read and agree to these Terms and Conditions prior to you using the Site.
+Children and minors should not submit personal, sensitive, medical, legal, financial, confidential, or emergency information into the Service.
 
-## INTELLECTUAL PROPERTY RIGHTS
+By using the Service, you represent that you are legally able to agree to these Terms or that your parent or legal guardian has reviewed and agreed to these Terms on your behalf.
 
-Unless otherwise indicated, the Site is our proprietary property and all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the Site (collectively, the “Content”) and the trademarks, service marks, and logos contained therein (the “Marks”) are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, foreign jurisdictions, and international conventions.
+## 3. Changes to These Terms
 
-The Content and the Marks are provided on the Site “AS IS” for your information and personal use only. Except as expressly provided in these Terms and Conditions, no part of the Site and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
+We may update these Terms from time to time.
 
-Provided that you are eligible to use the Site, you are granted a limited license to access and use the Site and to download or print a copy of any portion of the Content to which you have properly gained access solely for your personal, non-commercial use. We reserve all rights not expressly granted to you in and to the Site, the Content and the Marks.
+If we make changes, we may update the effective date above and provide notice as required by applicable law.
 
-## USER REPRESENTATIONS
+Your continued use of the Service after updated Terms become effective means you accept the updated Terms.
 
-By using the Site, you represent and warrant that:
+## 4. The Service
 
-[(1) all registration information you submit will be true, accurate, current, and complete; (2) you will maintain the accuracy of such information and promptly update such registration information as necessary;]
+Inspo may include features such as:
 
-(3) you have the legal capacity and you agree to comply with these Terms and Conditions;
+* Recipe saving
+* Recipe importing
+* Recipe URL parsing
+* Recipe video link parsing
+* Recipe organization
+* Recipe folders or collections
+* Meal planning
+* Grocery lists
+* Ingredient extraction
+* Image-based recipe extraction
+* AI-assisted recipe extraction
+* Recipe image and thumbnail storage
+* Cooking instructions
+* Recipe search
+* Recipe recommendations or organization tools
+* User accounts
+* Cloud sync
+* In-app purchases
+* Subscriptions
+* Advertising measurement and attribution
+* Other cooking, recipe, grocery, or lifestyle-related features
 
-[(4) you are not under the age of 13;]
+We may add, modify, suspend, or remove features at any time, with or without notice.
 
-(5) not a minor in the jurisdiction in which you reside[, or if a minor, you have received parental permission to use the Site];
+We do not guarantee that the Service or any feature will always be available, uninterrupted, secure, accurate, or error-free.
 
-(6) you will not access the Site through automated or non-human means, whether through a bot, script, or otherwise;
+## 5. Accounts
 
-(7) you will not use the Site for any illegal or unauthorized purpose;
+You may need to create an account to use some or all of the Service.
 
-(8) your use of the Site will not violate any applicable law or regulation.
+You agree to provide accurate information and to keep your account information current.
 
-If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof).
+You are responsible for maintaining the confidentiality of your account credentials and for all activity under your account.
 
-## USER REGISTRATION
+You agree to notify us if you believe your account has been accessed without authorization.
 
-You may be required to register with the Site. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
- 
-## PROHIBITED ACTIVITIES
+We are not responsible for losses or damages resulting from unauthorized account access caused by your failure to protect your credentials, device, or account.
 
-You may not access or use the Site for any purpose other than that for which we make the Site available. The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
+We may suspend, restrict, or terminate your account if we believe you have violated these Terms, used the Service unlawfully or abusively, created risk for the Service or others, or if we are required to do so by law or platform requirements.
 
-As a user of the Site, you agree not to:
+## 6. User Content
 
-	•	systematically retrieve data or other content from the Site to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
-	•	make any unauthorized use of the Site, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
-	•	use a buying agent or purchasing agent to make purchases on the Site.
-	•	use the Site to advertise or offer to sell goods and services.
-	•	circumvent, disable, or otherwise interfere with security-related features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.
-	•	engage in unauthorized framing of or linking to the Site.
-	•	trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords;
-	•	make improper use of our support services or submit false reports of abuse or misconduct.
-	•	engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
-	•	interfere with, disrupt, or create an undue burden on the Site or the networks or services connected to the Site.
-	•	attempt to impersonate another user or person or use the username of another user.
-	•	sell or otherwise transfer your profile.
-	•	use any information obtained from the Site in order to harass, abuse, or harm another person.
-	•	use the Site as part of any effort to compete with us or otherwise use the Site and/or the Content for any revenue-generating endeavor or commercial enterprise.
-	•	decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Site.
-	•	attempt to bypass any measures of the Site designed to prevent or restrict access to the Site, or any portion of the Site.
-	•	harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Site to you.
-	•	delete the copyright or other proprietary rights notice from any Content.
-	•	copy or adapt the Site’s software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
-	•	upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site.
-	•	upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as “spyware” or “passive collection mechanisms” or “pcms”).
-	•	except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
-	•	disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.
-	•	use the Site in a manner inconsistent with any applicable laws or regulations.
-	•	[other]
+You may submit, save, upload, import, create, organize, or store content through the Service, including recipe URLs, recipe video links, recipe text, ingredients, instructions, images, screenshots, photos, recipe video thumbnails, notes, folders, grocery lists, meal plans, and other information (“User Content”).
 
-## USER GENERATED CONTRIBUTIONS
+You are solely responsible for your User Content.
 
-The Site may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions").
+You represent and warrant that:
 
-Contributions may be viewable by other users of the Site and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
+* You own or have the necessary rights to submit and use your User Content.
+* Your User Content does not violate any law or regulation.
+* Your User Content does not infringe or misappropriate any copyright, trademark, privacy, publicity, or other rights.
+* Your User Content does not violate any third-party website terms, platform rules, or content restrictions.
+* Your User Content does not violate these Terms.
+* Your User Content is not unlawful, harmful, abusive, defamatory, obscene, misleading, or otherwise objectionable.
+* Your User Content does not include personal, sensitive, confidential, medical, legal, financial, or emergency information unless you have all rights and permissions necessary to submit it.
 
-	•	the creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
-	•	you are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Site, and other users of the Site to use your Contributions in any manner contemplated by the Site and these Terms and Conditions.
-	•	you have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Site and these Terms and Conditions.
-	•	your Contributions are not false, inaccurate, or misleading.
-	•	your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
-	•	your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
-	•	your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
-	•	your Contributions do not advocate the violent overthrow of any government or incite, encourage, or threaten physical harm against another.
-	•	your Contributions do not violate any applicable law, regulation, or rule.
-	•	your Contributions do not violate the privacy or publicity rights of any third party.
-	•	your Contributions do not contain any material that solicits personal information from anyone under the age of 18 or exploits people under the age of 18 in a sexual or violent manner.
-	•	your Contributions do not violate any federal or state law concerning child pornography, or otherwise intended to protect the health or well-being of minors;
-	•	your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
-	•	your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms and Conditions, or any applicable law or regulation.
+You retain any rights you have in your User Content.
 
-Any use of the Site in violation of the foregoing violates these Terms and Conditions and may result in, among other things, termination or suspension of your rights to use the Site.
+By submitting User Content to the Service, you grant PineconeLabs a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to host, store, reproduce, process, transmit, display, modify, resize, crop, compress, parse, analyze, format, and use your User Content solely as necessary to operate, provide, maintain, secure, support, and improve the Service.
 
-## CONTRIBUTION LICENSE
+This license includes the right to process and store uploaded images, screenshots, photos, recipe text, submitted URLs, video links, and video thumbnails for recipe extraction, recipe display, saved recipe functionality, cloud sync, and related app features.
 
-By posting your Contributions to any part of the Site [or making Contributions accessible to the Site by linking your account from the Site to any of your social networking accounts], you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use, copy, reproduce, disclose, sell, resell, publish, broadcast, retitle, archive, store, cache, publicly perform, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial, advertising, or otherwise, and to prepare derivative works of, or incorporate into other works, such Contributions, and grant and authorize sublicenses of the foregoing. The use and distribution may occur in any media formats and through any media channels.
+We may remove, restrict, disable, or refuse to process any User Content at any time if we believe it violates these Terms, creates risk, infringes rights, violates law, or may harm the Service, users, source websites, third parties, or PineconeLabs.
 
-This license will apply to any form, media, or technology now known or hereafter developed, and includes our use of your name, company name, and franchise name, as applicable, and any of the trademarks, service marks, trade names, logos, and personal and commercial images you provide. You waive all moral rights in your Contributions, and you warrant that moral rights have not otherwise been asserted in your Contributions.
+## 7. URL Submission and Third-Party Recipe Content
 
-We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Site.
+Inspo may allow you to submit URLs from third-party websites so the Service can fetch, parse, extract, summarize, reformat, or organize recipe-related information.
 
-You are solely responsible for your Contributions to the Site and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.  
+You are responsible for ensuring that any URL you submit and any content you import, save, or use through the Service is lawful and does not violate any third-party rights, website terms, copyright restrictions, access restrictions, or other restrictions.
 
-We have the right, in our sole and absolute discretion, (1) to edit, redact, or otherwise change any Contributions; (2) to re-categorize any Contributions to place them in more appropriate locations on the Site; and (3) to pre-screen or delete any Contributions at any time and for any reason, without notice. We have no obligation to monitor your Contributions.
-  
-## GUIDELINES FOR REVIEWS
+We do not control third-party websites or content.
 
-We may provide you areas on the Site to leave reviews or ratings. When posting a review, you must comply with the following criteria:
+We do not guarantee that third-party recipe content will be accurate, complete, available, lawful, current, safe, or suitable for your use.
 
-(1) you should have firsthand experience with the person/entity being reviewed;
+We may refuse, limit, remove, disable, or stop processing any URL or content at any time.
 
-(2) your reviews should not contain offensive profanity, or abusive, racist, offensive, or hate language;
+Third-party websites may change, block, restrict, remove, or limit access to their content at any time.
 
-(3) your reviews should not contain discriminatory references based on religion, race, gender, national origin, age, marital status, sexual orientation, or disability;
+Inspo is not responsible for third-party websites, third-party content, recipe source websites, external links, website terms, copyright restrictions, or the availability or accuracy of imported content.
 
-(4) your reviews should not contain references to illegal activity;
+## 8. AI-Based Recipe Extraction
 
-(5) you should not be affiliated with competitors if posting negative reviews;
+Inspo may use artificial intelligence, including OpenAI, to help extract, parse, summarize, format, or organize recipe-related information from URLs, images, screenshots, photos, video thumbnails, recipe text, or other content you submit.
 
-(6) you should not make any conclusions as to the legality of conduct;
+AI-generated or AI-assisted outputs may be inaccurate, incomplete, misleading, outdated, unsafe, or unsuitable for your circumstances.
 
-(7) you may not post any false or misleading statements;
+You are solely responsible for reviewing and verifying all AI-generated or AI-assisted recipe information, including ingredients, instructions, cooking times, temperatures, nutrition information, allergens, grocery items, and dietary suitability.
 
-(8) you may not organize a campaign encouraging others to post reviews, whether positive or negative.
+Do not submit personal, sensitive, confidential, medical, legal, financial, or emergency information for AI-based recipe extraction.
 
-We may accept, reject, or remove reviews in our sole discretion. We have absolutely no obligation to screen reviews or to delete reviews, even if anyone considers reviews objectionable or inaccurate. Reviews are not endorsed by us, and do not necessarily represent our opinions or the views of any of our affiliates or partners.
+PineconeLabs is not responsible for any action you take or do not take based on AI-generated or AI-assisted outputs.
 
-We do not assume liability for any review or for any claims, liabilities, or losses resulting from any review. By posting a review, you hereby grant to us a perpetual, non-exclusive, worldwide, royalty-free, fully-paid, assignable, and sublicensable right and license to reproduce, modify, translate, transmit by any means, display, perform, and/or distribute all content relating to reviews.
-  
-## MOBILE APPLICATION LICENSE
+## 9. Image Uploads, Screenshots, and Video Thumbnails
 
-Use License
-If you access the Site via a mobile application, then we grant you a revocable, non-exclusive, non-transferable, limited right to install and use the mobile application on wireless electronic devices owned or controlled by you, and to access and use the mobile application on such devices strictly in accordance with the terms and conditions of this mobile application license contained in these Terms and Conditions.
+Inspo may allow you to upload images, screenshots, photos, or submit video links so the Service can extract, organize, or display recipe-related information.
 
-You shall not:
+You are responsible for ensuring that you have the rights and permissions necessary to upload, submit, store, process, and use those images, screenshots, photos, or thumbnails.
 
-(1) decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the application;
+You should not upload or submit images that contain personal, sensitive, confidential, medical, legal, financial, or emergency information.
 
-(2) make any modification, adaptation, improvement, enhancement, translation, or derivative work from the application;
+We do not guarantee that image-based extraction, video thumbnail processing, visual recognition, or AI-assisted extraction features will be accurate, complete, safe, or suitable for your use.
 
-(3) violate any applicable laws, rules, or regulations in connection with your access or use of the application;
+We may store uploaded images and video thumbnails as part of your saved recipes, recipe extraction history, recipe display, cloud sync, or related app functionality.
 
-(4) remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) posted by us or the licensors of the application;
+We may remove or refuse to process images or thumbnails that we believe violate these Terms, create risk, infringe rights, violate law, or may harm the Service, users, source websites, third parties, or PineconeLabs.
 
-(5) use the application for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended;
+## 10. Food, Nutrition, Allergy, and Health Disclaimer
 
-(6) make the application available over a network or other environment permitting access or use by multiple devices or users at the same time;
+The Service may provide, display, parse, estimate, organize, or extract recipe, ingredient, grocery, calorie, nutrition, allergen, dietary, or cooking-related information.
 
-(7) use the application for creating a product, service, or software that is, directly or indirectly, competitive with or in any way a substitute for the application;
+This information may come from third-party websites, user submissions, uploaded images, screenshots, video thumbnails, automated extraction, AI processing, third-party providers, or other sources.
 
-(8) use the application to send automated queries to any website or to send any unsolicited commercial e-mail;
+We do not guarantee that any recipe, ingredient, nutrition, calorie, allergen, dietary, grocery, or cooking information is accurate, complete, current, safe, lawful, or suitable for you.
 
-(9) use any proprietary information or any of our interfaces or our other intellectual property in the design, development, manufacture, licensing, or distribution of any applications, accessories, or devices for use with the application.
+Ingredient lists may be incomplete or incorrect. Nutrition values may be estimates. Allergen information may be missing, incomplete, or inaccurate. Cooking instructions may be incomplete, unsafe, or unsuitable for your equipment, ingredients, location, or circumstances.
 
-Apple and Android Devices
-The following terms apply when you use a mobile application obtained from either the Apple Store or Google Play (each an “App Distributor”) to access the Site:
+You are solely responsible for:
 
-(1) the license granted to you for our mobile application is limited to a non-transferable license to use the application on a device that utilizes the Apple iOS or Android operating systems, as applicable, and in accordance with the usage rules set forth in the applicable App Distributor’s terms of service;
+* Verifying ingredients
+* Checking allergens
+* Reviewing nutrition information
+* Following safe food handling practices
+* Cooking food to safe temperatures
+* Determining dietary suitability
+* Consulting qualified professionals where appropriate
 
-(2) we are responsible for providing any maintenance and support services with respect to the mobile application as specified in the terms and conditions of this mobile application license contained in these Terms and Conditions or as otherwise required under applicable law, and you acknowledge that each App Distributor has no obligation whatsoever to furnish any maintenance and support services with respect to the mobile application;
+Do not rely on Inspo for medical, nutrition, dietetic, allergy, food safety, weight loss, pregnancy-related, or health advice.
 
-(3) in the event of any failure of the mobile application to conform to any applicable warranty, you may notify the applicable App Distributor, and the App Distributor, in accordance with its terms and policies, may refund the purchase price, if any, paid for the mobile application, and to the maximum extent permitted by applicable law, the App Distributor will have no other warranty obligation whatsoever with respect to the mobile application;
+## 11. Purchases, Subscriptions, and Billing
 
-(4) you represent and warrant that (i) you are not located in a country that is subject to a U.S. government embargo, or that has been designated by the U.S. government as a “terrorist supporting” country and (ii) you are not listed on any U.S. government list of prohibited or restricted parties;
+Inspo may offer paid features, in-app purchases, free trials, or subscriptions.
 
-(5) you must comply with applicable third-party terms of agreement when using the mobile application, e.g., if you have a VoIP application, then you must not be in violation of their wireless data service agreement when using the mobile application;
+Purchases and subscriptions are processed by the applicable app store, such as the Apple App Store or Google Play. Your purchase is also subject to the app store’s terms, conditions, billing rules, cancellation rules, and refund policies.
 
-6) you acknowledge and agree that the App Distributors are third-party beneficiaries of the terms and conditions in this mobile application license contained in these Terms and Conditions, and that each App Distributor will have the right (and will be deemed to have accepted the right) to enforce the terms and conditions in this mobile application license contained in these Terms and Conditions against you as a third-party beneficiary thereof.  
+Subscription pricing, duration, free trials, renewal terms, and available products may be displayed in the app or app store purchase flow.
 
-## SOCIAL MEDIA
+Unless canceled before the end of the applicable billing period or trial period, subscriptions may automatically renew according to the terms shown at the time of purchase.
 
-As part of the functionality of the Site, you may link your account with online accounts you have with third-party service providers (each such account, a “Third-Party Account”) by either: (1) providing your Third-Party Account login information through the Site; or (2) allowing us to access your Third-Party Account, as is permitted under the applicable terms and conditions that govern your use of each Third-Party Account.
+You are responsible for managing and canceling your subscription through your app store account settings.
 
-You represent and warrant that you are entitled to disclose your Third-Party Account login information to us and/or grant us access to your Third-Party Account, without breach by you of any of the terms and conditions that govern your use of the applicable Third-Party Account, and without obligating us to pay any fees or making us subject to any usage limitations imposed by the third-party service provider of the Third-Party Account.
+We do not control app store billing, refund decisions, payment methods, taxes, or subscription management tools.
 
-By granting us access to any Third-Party Accounts, you understand that (1) we may access, make available, and store (if applicable) any content that you have provided to and stored in your Third-Party Account (the “Social Network Content”) so that it is available on and through the Site via your account, including without limitation any friend lists and (2) we may submit to and receive from your Third-Party Account additional information to the extent you are notified when you link your account with the Third-Party Account.
+All purchases are final except as required by applicable law or app store policy.
 
-Depending on the Third-Party Accounts you choose and subject to the privacy settings that you have set in such Third-Party Accounts, personally identifiable information that you post to your Third-Party Accounts may be available on and through your account on the Site.
+## 12. Free Trials and Promotional Offers
 
-Please note that if a Third-Party Account or associated service becomes unavailable or our access to such Third-Party Account is terminated by the third-party service provider, then Social Network Content may no longer be available on and through the Site. You will have the ability to disable the connection between your account on the Site and your Third-Party Accounts at any time.
+We may offer free trials, discounts, introductory pricing, promotional offers, or limited-time offers.
 
-PLEASE NOTE THAT YOUR RELATIONSHIP WITH THE THIRD-PARTY SERVICE PROVIDERS ASSOCIATED WITH YOUR THIRD-PARTY ACCOUNTS IS GOVERNED SOLELY BY YOUR AGREEMENT(S) WITH SUCH THIRD-PARTY SERVICE PROVIDERS.
-We make no effort to review any Social Network Content for any purpose, including but not limited to, for accuracy, legality, or non-infringement, and we are not responsible for any Social Network Content.
+Offer terms may vary by user, region, platform, app version, eligibility, or time period.
 
-You acknowledge and agree that we may access your email address book associated with a Third-Party Account and your contacts list stored on your mobile device or tablet computer solely for purposes of identifying and informing you of those contacts who have also registered to use the Site.
+We may modify, revoke, or discontinue offers at any time, except where prohibited by law.
 
-You can deactivate the connection between the Site and your Third-Party Account by contacting us using the contact information below or through your account settings (if applicable). We will attempt to delete any information stored on our servers that was obtained through such Third-Party Account, except the username and profile picture that become associated with your account.
+If you start a free trial, you may be charged when the trial ends unless you cancel before the deadline shown in the app store purchase flow.
 
-Please note that Inspo is no way related to or associated with TikTok or Bytedance. You can simply paste links to TikTok videos in the app in order to save their favorite recipes.
+## 13. Advertising, Attribution, and Tracking
 
-## SUBMISSIONS
+The Service may use advertising, analytics, attribution, and measurement tools.
 
-You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information regarding the Site ("Submissions") provided by you to us are non-confidential and shall become our sole property. We shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Submissions for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you.
+These tools may help us measure installs, purchases, subscriptions, app events, campaign performance, and advertising effectiveness.
 
-You hereby waive all moral rights to any such Submissions, and you hereby warrant that any such Submissions are original with you or that you have the right to submit such Submissions. You agree there shall be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions.
+On iOS, where required, we may ask for permission through Apple’s App Tracking Transparency prompt before tracking your activity across other companies’ apps and websites for advertising or measurement purposes.
 
+You can manage app tracking and advertising preferences through your device settings.
 
-## THIRD-PARTY WEBSITES AND CONTENT
+We are not responsible for third-party advertising platforms, their data practices, their campaign systems, or their terms and policies.
 
-The Site may contain (or you may be sent via the Site) links to other websites ("Third-Party Websites") as well as articles, photographs, text, graphics, pictures, designs, music, sound, video, information, applications, software, and other content or items belonging to or originating from third parties ("Third-Party Content").
+## 14. Third-Party Services
 
-Such Third-Party Websites and Third-Party Content are not investigated, monitored, or checked for accuracy, appropriateness, or completeness by us, and we are not responsible for any Third-Party Websites accessed through the Site or any Third-Party Content posted on, available through, or installed from the Site, including the content, accuracy, offensiveness, opinions, reliability, privacy practices, or other policies of or contained in the Third-Party Websites or the Third-Party Content.
+The Service may rely on or integrate with third-party services, including providers that support:
 
-Inclusion of, linking to, or permitting the use or installation of any Third-Party Websites or any Third-Party Content does not imply approval or endorsement thereof by us. If you decide to leave the Site and access the Third-Party Websites or to use or install any Third-Party Content, you do so at your own risk, and you should be aware these Terms and Conditions no longer govern.
+* Authentication
+* Cloud database storage
+* Cloud functions and backend infrastructure
+* File and image storage
+* Analytics
+* Purchases and subscriptions
+* Advertising measurement and attribution
+* URL parsing and recipe extraction
+* Image processing and recipe extraction
+* Artificial intelligence and machine learning functionality
+* App distribution
+* Infrastructure
+* Security
+* Compliance
+* Customer support
 
-You should review the applicable terms and policies, including privacy and data gathering practices, of any website to which you navigate from the Site or relating to any applications you use or install from the Site. Any purchases you make through Third-Party Websites will be through other websites and from other companies, and we take no responsibility whatsoever in relation to such purchases which are exclusively between you and the applicable third party.
+Third-party services are not controlled by PineconeLabs. Your use of third-party services may be subject to their own terms, policies, and practices.
 
-You agree and acknowledge that we do not endorse the products or services offered on Third-Party Websites and you shall hold us harmless from any harm caused by your purchase of such products or services. Additionally, you shall hold us harmless from any losses sustained by you or harm caused to you relating to or resulting in any way from any Third-Party Content or any contact with Third-Party Websites.
+We are not responsible for third-party services, data practices, content, availability, accuracy, failures, outages, or actions.
 
-## ADVERTISERS
+## 15. Acceptable Use
 
-We allow advertisers to display their advertisements and other information in certain areas of the Site, such as sidebar advertisements or banner advertisements. If you are an advertiser, you shall take full responsibility for any advertisements you place on the Site and any services provided on the Site or products sold through those advertisements.
+You agree to use the Service only for lawful purposes and in accordance with these Terms.
 
-Further, as an advertiser, you warrant and represent that you possess all rights and authority to place advertisements on the Site, including, but not limited to, intellectual property rights, publicity rights, and contractual rights.
+You agree not to:
 
-[As an advertiser, you agree that such advertisements are subject to our Digital Millennium Copyright Act (“DMCA”) Notice and Policy provisions as described below, and you understand and agree there will be no refund or other compensation for DMCA takedown-related issues.] We simply provide the space to place such advertisements, and we have no other relationship with advertisers.   
- 
-## SITE MANAGEMENT
+* Use the Service to violate any law or regulation
+* Use the Service to infringe or misappropriate intellectual property rights
+* Submit, save, import, upload, or distribute content you do not have the right to use
+* Submit URLs or content in a way that violates third-party website terms or restrictions
+* Use the Service to scrape, copy, or extract content unlawfully
+* Use the Service as a substitute for medical, dietary, nutritional, allergy, food safety, legal, financial, or professional advice
+* Submit personal, sensitive, confidential, medical, legal, financial, or emergency information into the Service
+* Use the Service to harm yourself or others
+* Reverse engineer, decompile, disassemble, or attempt to extract source code from the Service
+* Copy, modify, distribute, sell, lease, or sublicense any part of the Service
+* Interfere with or disrupt the Service
+* Attempt to bypass security, subscription, purchase, tracking, or access controls
+* Use automated systems to access the Service without permission
+* Misrepresent your identity or affiliation
+* Use the Service in a way that could damage PineconeLabs, users, service providers, source websites, or third parties
 
-We reserve the right, but not the obligation, to: 
+We reserve the right to suspend, restrict, or terminate access to the Service if we believe you have violated these Terms or used the Service in a harmful, unlawful, or abusive way.
 
-(1) monitor the Site for violations of these Terms and Conditions;
+## 16. Ownership and Intellectual Property
 
-(2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms and Conditions, including without limitation, reporting such user to law enforcement authorities;
+The Service, including all software, designs, graphics, text, features, interfaces, content, trademarks, logos, and other materials, is owned by PineconeLabs or its licensors and is protected by intellectual property and other laws.
 
-(3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof;
+Except as expressly allowed by these Terms, you may not copy, modify, distribute, sell, lease, sublicense, reverse engineer, or create derivative works based on the Service.
 
-(4) in our sole discretion and without limitation, notice, or liability, to remove from the Site or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems;
+Subject to your compliance with these Terms, PineconeLabs grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable, revocable license to use the Service for your personal, non-commercial use.
 
-(5) otherwise manage the Site in a manner designed to protect our rights and property and to facilitate the proper functioning of the Site.
+## 17. Third-Party Content and Intellectual Property
 
-## PRIVACY POLICY
+The Service may display, organize, summarize, extract, or store content from third-party websites or sources at your direction.
 
-We care about data privacy and security. Please review our Privacy Policy posted on the Site]. By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms and Conditions. Please be advised the Site is hosted in the United States.
+All third-party content remains the property of its respective owners.
 
-If you access the Site from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
+Inspo does not claim ownership of third-party recipes, websites, images, videos, thumbnails, trademarks, logos, or other materials.
 
-[Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical.]
+You are responsible for respecting third-party intellectual property rights and website terms.
 
-## DIGITAL MILLENNIUM COPYRIGHT ACT (DMCA) NOTICE AND POLICY
+We may remove, restrict, or disable content if we believe it may infringe rights, violate law, violate these Terms, or create risk for PineconeLabs, users, service providers, source websites, or third parties.
 
-### Notifications
+## 18. Feedback
 
-We respect the intellectual property rights of others. If you believe that any material available on or through the Site infringes upon any copyright you own or control, please immediately notify our Designated Copyright Agent using the contact information provided below (a “Notification”).
+If you send us feedback, suggestions, ideas, bug reports, feature requests, or other comments, you grant PineconeLabs a worldwide, perpetual, irrevocable, royalty-free, fully paid, sublicensable, and transferable license to use, copy, modify, distribute, display, perform, and otherwise exploit that feedback for any purpose without compensation or obligation to you.
 
-A copy of your Notification will be sent to the person who posted or stored the material addressed in the Notification. Please be advised that pursuant to federal law you may be held liable for damages if you make material misrepresentations in a Notification. Thus, if you are not sure that material located on or linked to by the Site infringes your copyright, you should consider first contacting an attorney.
+## 19. Privacy
 
-All Notifications should meet the requirements of DMCA 17 U.S.C. § 512(c)(3) and include the following information:
+Your use of the Service is also governed by our Privacy Policy.
 
-(1) A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+Please review the Privacy Policy to understand how information may be collected, used, processed, and shared.
 
-(2) identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works on the Site are covered by the Notification, a representative list of such works on the Site;
+## 20. Disclaimers
 
-(3) identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;
+To the maximum extent permitted by law, the Service is provided on an “AS IS,” “AS AVAILABLE,” and “WITH ALL FAULTS” basis.
 
-(4) information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and, if available, an email address at which the complaining party may be contacted;
+PineconeLabs disclaims all warranties, whether express, implied, statutory, or otherwise, including warranties of merchantability, fitness for a particular purpose, title, non-infringement, accuracy, availability, reliability, security, and uninterrupted operation.
 
-(5) a statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law;
+We do not warrant that:
 
-(6) a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed upon.
+* The Service will meet your needs or expectations
+* The Service will be accurate, reliable, complete, safe, secure, uninterrupted, or error-free
+* Recipe information will be accurate, complete, current, lawful, or available
+* URL parsing will work for any particular website or recipe
+* AI-generated or AI-assisted outputs will be accurate, complete, safe, or useful
+* Image-based extraction will be accurate, complete, or reliable
+* Imported content will match the original source
+* Uploaded images or thumbnails will be processed correctly
+* Nutrition, calorie, ingredient, allergen, dietary, grocery, or cooking information will be accurate or safe
+* Any recipe will be safe, suitable, healthy, or appropriate for you
+* Any defects or errors will be corrected
+* The Service will be free from viruses, harmful code, or security vulnerabilities
+* Third-party services, websites, app stores, or providers will be available or error-free
 
-### Counter Notification
+You use the Service at your own risk.
 
-If you believe your own copyrighted material has been removed from the Site as a result of a mistake or misidentification, you may submit a written counter notification to [us/our Designated Copyright Agent] using the contact information provided below (a “Counter Notification”).
+## 21. Limitation of Liability
 
-To be an effective Counter Notification under the DMCA, your Counter Notification must include substantially the following:
+To the maximum extent permitted by law, PineconeLabs and its owners, members, managers, officers, directors, employees, contractors, agents, affiliates, licensors, and service providers will not be liable for any indirect, incidental, special, consequential, exemplary, punitive, or enhanced damages, including lost profits, lost revenue, lost data, loss of goodwill, personal injury, food-related harm, allergic reaction, illness, property damage, or other intangible losses, arising out of or related to your use of or inability to use the Service.
 
-(1) identification of the material that has been removed or disabled and the location at which the material appeared before it was removed or disabled;
+To the maximum extent permitted by law, PineconeLabs will not be liable for any damages arising from:
 
-(2) a statement that you consent to the jurisdiction of the Federal District Court in which your address is located, or if your address is outside the United States, for any judicial district in which we are located;
+* Your reliance on any recipe, ingredient, nutrition, calorie, allergen, dietary, grocery, meal planning, or cooking information
+* Your reliance on AI-generated or AI-assisted outputs
+* Any medical, dietary, nutritional, allergy, food safety, legal, financial, professional, or safety-related decision
+* Any food preparation, cooking, ingredient, allergen, or consumption decision
+* Any action you take or do not take based on the Service
+* Any URL parsing, recipe importing, image processing, video thumbnail processing, AI processing, or third-party website content
+* Any third-party service, source website, ad platform, analytics provider, app store, payment processor, AI provider, or service provider
+* Any unauthorized access, security incident, data loss, or service interruption
+* Any user content or submitted information
+* Any failure of the Service to meet your expectations
 
-(3) a statement that you will accept service of process from the party that filed the Notification or the party's agent;
+To the maximum extent permitted by law, PineconeLabs’ total liability for all claims arising out of or related to the Service or these Terms will not exceed the greater of:
 
-(4) your name, address, and telephone number;
+* The amount you paid to PineconeLabs for the Service in the twelve months before the claim arose; or
+* One hundred U.S. dollars ($100)
 
-(5) a statement under penalty of perjury that you have a good faith belief that the material in question was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled;
+Some jurisdictions do not allow certain limitations of liability, so some of the above limitations may not apply to you.
 
-(6) your physical or electronic signature.
+## 22. Indemnification
 
-If you send us a valid, written Counter Notification meeting the requirements described above, we will restore your removed or disabled material, unless we first receive notice from the party filing the Notification informing us that such party has filed a court action to restrain you from engaging in infringing activity related to the material in question.
+To the maximum extent permitted by law, you agree to defend, indemnify, and hold harmless PineconeLabs and its owners, members, managers, officers, directors, employees, contractors, agents, affiliates, licensors, and service providers from and against any claims, liabilities, damages, losses, costs, expenses, and fees, including reasonable attorneys’ fees, arising out of or related to:
 
-Please note that if you materially misrepresent that the disabled or removed content was removed by mistake or misidentification, you may be liable for damages, including costs and attorney's fees. Filing a false Counter Notification constitutes perjury.
+* Your use or misuse of the Service
+* Your violation of these Terms
+* Your violation of any law or regulation
+* Your violation of any rights of another person or entity
+* Your User Content
+* Any URL, recipe, ingredient, image, screenshot, photo, video link, video thumbnail, text, or other content you submit, save, import, upload, or use
+* Your reliance on any Service content
+* Your reliance on AI-generated or AI-assisted outputs
+* Your use of the Service for medical, dietary, nutritional, allergy, food safety, legal, financial, or professional purposes
+* A minor’s use of the Service where you are the parent or legal guardian
 
-Designated Copyright Agent
-[Name]
-Attn: Copyright Agent
-[Address]
-[City, State Zip]
-[email]
+We reserve the right to control the defense of any matter subject to indemnification, and you agree to cooperate with our defense.
 
-## COPYRIGHT INFRINGEMENTS
+## 23. App Store Terms
 
-We respect the intellectual property rights of others. If you believe that any material available on or through the Site infringes upon any copyright you own or control, please immediately notify us using the contact information provided below (a “Notification”). A copy of your Notification will be sent to the person who posted or stored the material addressed in the Notification.
+If you downloaded the Service from the Apple App Store, Google Play, or another app store, your use of the Service is also subject to the applicable app store terms.
 
-Please be advised that pursuant to federal law you may be held liable for damages if you make material misrepresentations in a Notification. Thus, if you are not sure that material located on or linked to by the Site infringes your copyright, you should consider first contacting an attorney.]
+The app store provider is not responsible for the Service or its content.
 
-## TERM AND TERMINATION
+The app store provider may be a third-party beneficiary of these Terms and may have the right to enforce these Terms against you where applicable.
 
-These Terms and Conditions shall remain in full force and effect while you use the Site. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS AND CONDITIONS, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SITE (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS AND CONDITIONS OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SITE OR DELETE [YOUR ACCOUNT AND] ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.
+You are responsible for complying with all applicable third-party terms when using the Service.
 
-If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party.
+## 24. Termination
 
-In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.
+You may stop using the Service at any time.
 
-## MODIFICATIONS AND INTERRUPTIONS
+We may suspend, restrict, or terminate your access to the Service at any time, with or without notice, if we believe:
 
-We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Site. We also reserve the right to modify or discontinue all or part of the Site without notice at any time.
+* You violated these Terms
+* You used the Service unlawfully, abusively, or harmfully
+* Your use creates risk for PineconeLabs, users, service providers, source websites, or third parties
+* We need to comply with law or app store requirements
+* We discontinue or modify the Service
 
-We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Site.
+Upon termination, the rights granted to you under these Terms will end immediately.
 
-We cannot guarantee the Site will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Site, resulting in interruptions, delays, or errors.
+Sections that by their nature should survive termination will survive, including ownership, user content licenses, disclaimers, limitation of liability, indemnification, dispute resolution, and governing law provisions.
 
-We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Site at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site during any downtime or discontinuance of the Site.
+## 25. Governing Law
 
-Nothing in these Terms and Conditions will be construed to obligate us to maintain and support the Site or to supply any corrections, updates, or releases in connection therewith.
+These Terms are governed by the laws of the State of New York, without regard to conflict of law principles.
 
-## GOVERNING LAW
+If you are a consumer residing in a jurisdiction that requires different governing law protections, those protections may apply to the extent required by law.
 
-These Terms and Conditions and your use of the Site are governed by and construed in accordance with the laws of the State of [name of state] applicable to agreements made and to be entirely performed within the State/Commonwealth of [name of state], without regard to its conflict of law principles.
+## 26. Dispute Resolution and Arbitration
 
-## DISPUTE RESOLUTION
+Please read this section carefully. It may require you to arbitrate disputes with PineconeLabs and may limit the manner in which you can seek relief.
 
-Any legal action of whatever nature brought by either you or us (collectively, the “Parties” and individually, a “Party”) shall be commenced or prosecuted in the state and federal courts located in Los Angeles County, California, and the Parties hereby consent to, and waive all defenses of lack of personal jurisdiction and forum non conveniens with respect to venue and jurisdiction in such state and federal courts.
+To the maximum extent permitted by law, any dispute, claim, or controversy arising out of or relating to these Terms or the Service will be resolved by binding arbitration on an individual basis, rather than in court, except that either party may bring an individual claim in small claims court if eligible.
 
-Application of the United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transaction Act (UCITA) are excluded from these Terms and Conditions. In no event shall any claim, action, or proceeding brought by either Party related in any way to the Site be commenced more than 2 years after the cause of action arose.
- 
-## CORRECTIONS
+You and PineconeLabs agree to waive any right to a jury trial.
 
-There may be information on the Site that contains typographical errors, inaccuracies, or omissions that may relate to the Site, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Site at any time, without prior notice.
+You and PineconeLabs agree that each may bring claims against the other only in an individual capacity and not as a plaintiff or class member in any purported class, collective, consolidated, private attorney general, or representative proceeding.
 
-## DISCLAIMER
+The arbitration will be conducted by a neutral arbitrator under rules selected by PineconeLabs, unless applicable law requires otherwise.
 
-THE SITE IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SITE AND OUR SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SITE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SITE’S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE SITE AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SITE, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SITE. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SITE, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES.
+The arbitrator will have authority to award the same damages and relief that a court could award on an individual basis, subject to the limitations in these Terms.
 
-AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
- 
-## LIMITATIONS OF LIABILITY
+If this arbitration agreement is found unenforceable, then disputes will be resolved in the state or federal courts located in New York County, New York, except where applicable law requires otherwise.
 
-IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SITE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+## 27. Class Action Waiver
 
-NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO US DURING THE 6 MONTH PERIOD PRIOR TO ANY CAUSE OF ACTION ARISING. CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES.
+To the maximum extent permitted by law, you and PineconeLabs agree that any proceedings to resolve disputes will be conducted only on an individual basis and not in a class, consolidated, collective, representative, or private attorney general action.
 
-IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
+If a court or arbitrator determines that this class action waiver is unenforceable with respect to a particular claim, then that claim must be severed and resolved in court, while any remaining claims must be arbitrated.
 
-## INDEMNIFICATION
+## 28. Export and Legal Compliance
 
-You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys’ fees and expenses, made by any third party due to or arising out of: (1) [your Contributions]; (2) use of the Site; (3) breach of these Terms and Conditions; (4) any breach of your representations and warranties set forth in these Terms and Conditions; (5) your violation of the rights of a third party, including but not limited to intellectual property rights; or (6) any overt harmful act toward any other user of the Site with whom you connected via the Site.
+You agree to comply with all applicable laws and regulations when using the Service.
 
-Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it. 
+You may not use, export, re-export, or transfer the Service in violation of applicable export control, sanctions, or trade laws.
 
-## USER DATA
+## 29. Severability
 
-We will maintain certain data that you transmit to the Site for the purpose of managing the Site, as well as data relating to your use of the Site. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Site.
+If any provision of these Terms is found to be invalid, illegal, or unenforceable, that provision will be enforced to the maximum extent permitted by law, and the remaining provisions will remain in full force and effect.
 
-You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
+## 30. No Waiver
 
-## ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
+Our failure to enforce any provision of these Terms does not constitute a waiver of that provision or any other provision.
 
-Visiting the Site, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Site, satisfy any legal requirement that such communication be in writing.
+## 31. Assignment
 
-YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE SITE.
+You may not assign or transfer these Terms or your rights or obligations under these Terms without our prior written consent.
 
-You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.
+We may assign or transfer these Terms, in whole or in part, without restriction, including in connection with a merger, acquisition, financing, reorganization, sale of assets, or by operation of law.
 
-## CALIFORNIA USERS AND RESIDENTS
+## 32. Entire Agreement
 
-If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 or by telephone at (800) 952-5210 or (916) 445-1254.
+These Terms, together with the Privacy Policy and any additional terms presented in the Service, constitute the entire agreement between you and PineconeLabs regarding the Service.
 
-## MISCELLANEOUS
+## 33. Contact Us
 
-These Terms and Conditions and any policies or operating rules posted by us on the Site constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Terms and Conditions shall not operate as a waiver of such right or provision.
+If you have questions about these Terms, contact us at:
 
-These Terms and Conditions operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control.
-
-If any provision or part of a provision of these Terms and Conditions is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms and Conditions and does not affect the validity and enforceability of any remaining provisions.
-
-There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms and Conditions or use of the Site. You agree that these Terms and Conditions will not be construed against us by virtue of having drafted them.
-
-You hereby waive any and all defenses you may have based on the electronic form of these Terms and Conditions and the lack of signing by the parties hereto to execute these Terms and Conditions.
-
-## CONTACT US 
-
-In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at:
-
-Avi Khemani
-
-avi.khemani888@gmail.com
+**PineconeLabs LLC**
+**Email:** [insporecipeapp@gmail.com](mailto:insporecipeapp@gmail.com)
