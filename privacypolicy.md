@@ -8,6 +8,8 @@ By using the Services, you acknowledge that you have read and understood this Po
 
 This Policy applies to users in all jurisdictions where we offer the Services. Our servers and operations are located primarily in the United States, and your information will be processed there and potentially in other countries, as described in Section 12.
 
+For purposes of applicable data-protection laws, Pinecone Labs LLC is the controller or business responsible for your personal information.
+
 ---
 
 ## 1. Eligibility
@@ -30,8 +32,11 @@ We collect the following categories of information:
 
 - **Device and technical information**, such as device model, operating system and version, platform, app version, language, and device or installation identifiers.
 - **Usage and analytics information**, such as the features you use, actions you take, events within the app, session information, and similar interaction data, collected through analytics tools.
+- **Log and network information**, such as IP address and an approximate, general location (for example, region or city) inferred from it.
+- **Advertising identifiers**, such as the device advertising identifier (for example, IDFA, IDFV, or Google Advertising ID), where permitted by your device settings and applicable permissions.
+- **Advertising and attribution information**, such as app install source, campaign attribution data, and information used for advertising measurement and modeling (for example, predicted lifetime value), derived from platform and device attributes.
+- **Purchase and subscription information**, such as transaction identifiers, product identifiers, and renewal, cancellation, or refund status (we do not receive your full payment card details).
 - **Push notification token**, used to deliver notifications to your device (for example, to confirm a recipe was saved).
-- **Approximate inferred information** used for advertising measurement and modeling (for example, predicted lifetime value), derived from platform and device attributes.
 
 **2.3 Information From Third Parties**
 
@@ -41,7 +46,7 @@ We collect the following categories of information:
 
 ## 3. Sensitive Information
 
-Some information you choose to provide — such as dietary preferences — may be considered sensitive in certain jurisdictions. We collect such information only to provide and personalize the Services. Where consent is required by law, we process this information based on your consent, which you may withdraw at any time by changing your preferences in the app or by contacting us. We do not require you to provide this information, but some features may not function without it.
+Some information you choose to provide — such as dietary preferences — may be considered sensitive, or may reveal sensitive information, in certain jurisdictions. We collect such information only to provide and personalize the Services. Where consent is required by law, we process this information based on your consent, which you may withdraw at any time by changing your preferences in the app or by contacting us. We do not require you to provide this information, but some features may not function without it. The Services are not designed to collect, diagnose, evaluate, or verify medical conditions, allergies, intolerances, medication interactions, or other health information, and you should not rely on the Services to identify allergens or dietary risks.
 
 ## 4. How Recipe Import and AI Processing Work
 
@@ -55,7 +60,9 @@ When you share a link or submit a description or image, the Services retrieve an
 
 AI-generated recipe details, including ingredients, instructions, preparation and cook times, and nutritional information, may be incomplete, inaccurate, or based on assumptions drawn from the source content, and should not be relied upon without independent verification.
 
-**You acknowledge that the links and content you submit, and content derived from them, will be transmitted to and processed by these third-party service providers** in order to provide the Services. Our third-party AI providers process this content solely to perform the Services and, under the terms applicable to our use of their tools, do not use your submitted content or generated recipes to train their general-purpose AI models. We may also store copies of retrieved content (such as thumbnail images) on our infrastructure; certain stored images may be assigned obfuscated, unguessable, but publicly accessible URLs in order to display them within the Services. Images you upload directly (for example, a photo you add to a recipe you create or edit) are likewise stored in our cloud storage and may be assigned the same type of obfuscated, unguessable URL so they can be displayed in the app. These URLs are intended only to enable display within the Services and are not designed to make your content searchable or publicly listed; however, anyone who has the specific URL may be able to access the image.
+**You acknowledge that the links and content you submit, and content derived from them, will be transmitted to and processed by these third-party service providers** in order to provide the Services. Our third-party AI providers process this content to provide services to us and, where applicable under our provider terms, do not use your submitted content or generated recipes to train their general-purpose AI models unless we disclose otherwise or obtain any required consent. We may also store copies of retrieved content (such as thumbnail images) on our infrastructure; certain stored images may be assigned obfuscated, unguessable URLs in order to display them within the Services. Images you upload directly (for example, a photo you add to a recipe you create or edit) are likewise stored in our cloud storage and may be assigned the same type of obfuscated, unguessable URL so they can be displayed in the app. These URLs are not indexed, listed, or intended for public discovery, and are used only to display images within the Services; however, they may be accessible to anyone who obtains the exact URL.
+
+If you choose to upload an image or use image-based recipe features, we may request access to your device's camera or photo library. We only access the specific photos or images you select or submit, unless your device settings or operating system permission flow indicate otherwise.
 
 ## 5. How We Use Information
 
@@ -112,7 +119,7 @@ With your permission, we send push notifications, including transactional notifi
 
 ## 10. Data Retention
 
-We retain personal information for as long as necessary to provide the Services, maintain your account, comply with our legal obligations, resolve disputes, enforce our agreements, and for other legitimate business purposes. When information is no longer needed, we take reasonable steps to delete or de-identify it. Some information may persist in backups or as required by law for a period of time after deletion.
+We retain personal information for as long as necessary to provide the Services, maintain your account, comply with our legal obligations, resolve disputes, enforce our agreements, and for other legitimate business purposes. We generally retain saved recipes, folders, meal plans, grocery lists, uploaded images, source content, and related generated content until you delete them, delete your account, or we no longer need them to provide the Services, subject to backups, legal obligations, and legitimate business purposes. When information is no longer needed, we take reasonable steps to delete or de-identify it. Following account deletion, we may retain recipe and related content in a de-identified or aggregated form that no longer identifies you. Some information may persist in backups or as required by law for a period of time after deletion.
 
 ## 11. Data Security
 
@@ -120,19 +127,19 @@ We take reasonable technical and organizational measures designed to protect per
 
 ## 12. International Data Transfers
 
-We operate primarily in the United States, and we and our service providers may store and process your information in the United States and other countries that may have data-protection laws different from those in your jurisdiction. **By using the Services, you consent to the transfer, storage, and processing of your information in the United States and other countries.** Where required, we take steps to provide an appropriate level of protection for such transfers.
+We operate primarily in the United States, and we and our service providers may store and process your information in the United States and other countries that may have data-protection laws different from those in your jurisdiction. Where required by applicable law, we rely on appropriate safeguards or other lawful transfer mechanisms to protect information transferred across borders.
 
 ## 13. Your Rights and Choices
 
 Depending on where you live, you may have certain rights regarding your personal information. We honor rights as required by applicable law.
 
-**13.1 Account Information and Deletion.** You can review and update certain account information within the Services, and you can delete your account at any time through the app. When you delete your account, we delete or de-identify associated personal information, subject to retention as described in Section 10 (for example, backups or information we must keep by law). Note that deleting your account does not cancel any subscription; see the Terms.
+**13.1 Account Information and Deletion.** You can review and update certain account information within the Services, and you can delete your account at any time through the app. When you delete your account, we delete or de-identify the personal information associated with your account, subject to retention as described in Section 10 (for example, backups or information we must keep by law). We may retain recipe and related content in a de-identified form that no longer identifies you — for example, recipes imported or generated from third-party sources — for our legitimate business purposes. Note that deleting your account does not cancel any subscription; see the Terms.
 
 **13.2 EEA/UK Residents (GDPR).** If you are in the European Economic Area or the United Kingdom, you may have the right to access, correct, delete, restrict, or object to the processing of your personal information, to data portability, and to withdraw consent. Our legal bases for processing include performance of our contract with you, your consent, our legitimate interests, and compliance with legal obligations. You may also lodge a complaint with your local data-protection authority.
 
 **13.3 California Residents (CCPA/CPRA).** If you are a California resident, you may have the right to know/access the categories and specific pieces of personal information we collect, use, and disclose; to request deletion or correction; and to opt out of any "sale" or "sharing" of personal information and limit the use of sensitive personal information, in each case subject to legal exceptions. We will not discriminate against you for exercising these rights. The categories of personal information we collect, the purposes for which we use them, and the categories of third parties to whom we disclose them are described in Sections 2, 5, and 6 above.
 
-**13.4 Other U.S. State Residents.** Residents of certain other U.S. states (such as Virginia, Colorado, Connecticut, and others) may have similar rights to access, correct, delete, and obtain a copy of their personal information, and to opt out of targeted advertising and certain profiling. We do not sell personal data for money. Depending on your jurisdiction, certain advertising or analytics activities may be considered targeted advertising, a "sale," or "sharing," and you may have the right to opt out as described above.
+**13.4 Other U.S. State Residents.** Residents of certain other U.S. states (such as Virginia, Colorado, Connecticut, and others) may have similar rights to access, correct, delete, and obtain a copy of their personal information, and to opt out of targeted advertising and certain profiling. We do not sell personal data for money. Depending on your jurisdiction, certain advertising or analytics activities may be considered targeted advertising, a "sale," or "sharing," and you may have the right to opt out. You can limit or opt out of this tracking through your device settings, including Apple's App Tracking Transparency controls (iOS) or your Android advertising ID settings.
 
 **13.5 How to Exercise Your Rights.** To exercise any of these rights, contact us at **insporecipeapp@gmail.com**. We may need to verify your identity before responding, and you may use an authorized agent where permitted. We will respond within the time required by applicable law.
 
