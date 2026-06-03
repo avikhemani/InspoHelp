@@ -1,439 +1,188 @@
-# Inspo Terms of Use
+# Inspo Terms of Service
 
-**Effective Date:** May 28, 2026
-**Company:** PineconeLabs LLC
-**Contact:** [insporecipeapp@gmail.com](mailto:insporecipeapp@gmail.com)
+**Effective Date: June 2, 2026**
 
-These Terms of Use (“Terms”) govern your access to and use of Inspo, a mobile application that helps users save, import, organize, parse, extract, and manage recipes, recipe videos, grocery-related information, meal ideas, cooking content, subscriptions, and related features (collectively, the “Service”) operated by PineconeLabs LLC (“PineconeLabs,” “we,” “us,” or “our”).
+**PLEASE READ THESE TERMS OF SERVICE CAREFULLY. THEY CONTAIN A BINDING ARBITRATION AGREEMENT, A CLASS ACTION WAIVER, AND A JURY TRIAL WAIVER IN SECTION 18, WHICH AFFECT YOUR LEGAL RIGHTS. UNLESS YOU OPT OUT WITHIN 30 DAYS AS DESCRIBED BELOW, YOU AND WE AGREE THAT DISPUTES WILL BE RESOLVED ONLY THROUGH INDIVIDUAL BINDING ARBITRATION, AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION OR JURY TRIAL.**
 
-By downloading, accessing, registering for, or using the Service, you agree to these Terms. If you do not agree to these Terms, do not use the Service.
+---
 
-## 1. Important Notice
+## 1. Agreement to These Terms
 
-Inspo is a recipe organization, cooking productivity, and general lifestyle app.
+These Terms of Service ("**Terms**") are a legally binding agreement between you ("**you**" or "**your**") and **Pinecone Labs LLC** and its affiliates ("**Inspo**", "**we**", "**us**", or "**our**"), and govern your access to and use of the Inspo mobile applications, our website(s), and all related features, content, and services we provide (collectively, the "**Services**").
 
-Inspo is not a medical service, healthcare provider, nutritionist, dietitian, allergy specialist, food safety authority, or substitute for professional advice.
+By downloading, accessing, signing up for, or using the Services, or by clicking, tapping, or otherwise indicating your acceptance, you agree to be bound by these Terms and by our [Privacy Policy](https://insporecipeapp.netlify.app/privacypolicy), which is incorporated by reference. **If you do not agree to all of these Terms, do not access or use the Services.**
 
-Any recipe, ingredient, nutrition, calorie, grocery, meal planning, dietary, or cooking information provided through the Service is for general informational and convenience purposes only.
+Certain features may be subject to additional guidelines or rules posted in connection with those features. All such additional terms are incorporated into these Terms by reference. To the extent any translated version of these Terms conflicts with the English version, the English version controls.
 
-You are solely responsible for verifying ingredients, allergens, nutrition information, food safety, cooking instructions, dietary suitability, and whether any recipe or food is appropriate for you.
+## 2. Eligibility
 
-If you have allergies, dietary restrictions, medical conditions, pregnancy-related needs, or other health concerns, consult a qualified professional before relying on information from the Service.
+You must be at least **18 years old** to use the Services. By using the Services, you represent and warrant that you are 18 years of age or older, that you have the legal capacity to enter into these Terms, and that you have all necessary rights, power, and authority to do so. The Services are not intended for and may not be used by anyone under the age of 18. We do not knowingly collect personal information from anyone under 18. If we learn that an individual under 18 has used the Services or provided us personal information, we may delete that account and information.
 
-## 2. Eligibility, Age Rating, and Minors
+You further represent that you are not located in, and are not a resident of, any jurisdiction subject to a U.S. Government embargo or designated as a "terrorist-supporting" country, and that you are not on any U.S. Government list of prohibited or restricted parties.
 
-Inspo may be rated 4+ or otherwise made available to a broad general audience through app stores. However, Inspo is not directed to children, is not submitted or marketed as a Kids Category app, and is intended as a general recipe organization and cooking app for a general audience.
+## 3. The Service; How It Works
 
-If you are under the age of majority where you live, you may use the Service only with permission and supervision from a parent or legal guardian.
+Inspo allows you to send or share links to videos, posts, or web pages containing recipes (for example, from Instagram, TikTok, Facebook, YouTube, recipe blogs, and other websites) to the Services. The Services then retrieve information available at the link (which may include captions, descriptions, on-screen or website text, images, subtitles, and audio), process that information using automated systems and third-party artificial intelligence services, and attempt to generate and save a structured recipe (which may include a title, description, ingredients, steps, preparation and cook times, and estimated nutritional information). The Services also let you generate recipes from text descriptions, extract recipes from images you provide, and create, edit, organize, plan, and shop for recipes. The Services are intended to help you create and manage a personal recipe collection for your own personal, household use, and not to republish, redistribute, or commercially exploit third-party content.
 
-If you are a parent or legal guardian and allow a minor to use the Service, you are responsible for the minor’s use of the Service, including any account activity, purchases, subscriptions, tracking permissions, ads, URL submissions, image uploads, AI processing, third-party content, and content saved or submitted by the minor.
+You understand and agree that the Services depend on third parties (including content platforms, data providers, and AI providers) and that the availability, accuracy, and functionality of the Services may change or be interrupted at any time. We may modify, suspend, add to, or discontinue any part of the Services, including any feature, content, or data, at any time and without notice or liability to you. Not all features are available in all locations.
 
-Children and minors should not submit personal, sensitive, medical, legal, financial, confidential, or emergency information into the Service.
+Your use of the Services is also subject to our Privacy Policy, which describes how we collect, use, and share information, including for analytics, advertising measurement, AI processing, and recipe-import functionality.
 
-By using the Service, you represent that you are legally able to agree to these Terms or that your parent or legal guardian has reviewed and agreed to these Terms on your behalf.
+## 4. Accounts
 
-## 3. Changes to These Terms
+**4.1 Account Creation.** Some features may be available without registration (including through an anonymous account), while others require you to register for an account or link a sign-in method (such as Google, Apple, or email). You represent and warrant that all information you provide is true, accurate, and complete, and you agree to keep it up to date. You agree to create and maintain only one account for your own personal use.
 
-We may update these Terms from time to time.
+**4.2 Account Security.** You are responsible for safeguarding your account credentials and for all activity that occurs under your account. You agree to notify us immediately of any unauthorized or suspected unauthorized use of your account. We are not liable for any loss or damage arising from your failure to comply with this section.
 
-If we make changes, we may update the effective date above and provide notice as required by applicable law.
+**4.3 Account Deletion.** You may delete your account at any time through the Services, or request deletion by contacting us at **insporecipeapp@gmail.com** or through any account-deletion page we make available. Deletion is generally permanent and cannot be undone. Please note that, depending on the platform, deleting your account or deleting the app from your device does **not** automatically cancel any subscription; you must cancel your subscription separately through the applicable App Provider (defined in Section 11). Certain information may be retained as described in our Privacy Policy or as required by law.
 
-Your continued use of the Service after updated Terms become effective means you accept the updated Terms.
+## 5. License to You; Restrictions
 
-## 4. The Service
+**5.1 License.** Subject to your compliance with these Terms, we grant you a limited, personal, revocable, non-exclusive, non-transferable, non-sublicensable license to access and use the Services and our Content (defined in Section 9) solely for your own personal, non-commercial purposes.
 
-Inspo may include features such as:
+**5.2 Restrictions.** Except as expressly permitted by these Terms or by functionality made available within the Services, you shall not, and shall not permit any third party to: (a) license, sell, rent, lease, transfer, assign, distribute, host, or otherwise commercially exploit the Services or any Content; (b) modify, adapt, translate, or create derivative works of the Services; (c) reverse engineer, decompile, disassemble, or attempt to derive the source code of any part of the Services, except to the extent applicable law expressly prohibits this restriction; (d) access or use the Services in order to build, train, or improve a similar or competitive product, service, dataset, or model, or to conduct competitive analysis or benchmarking; (e) use any robot, spider, scraper, crawler, or other automated means to access the Services or extract data; (f) circumvent, disable, or interfere with any security, rate-limiting, or access-control feature of the Services; (g) impose an unreasonable or disproportionately large load on our infrastructure; (h) upload or transmit any viruses, malware, or other harmful code; or (i) harvest or collect information about other users.
 
-* Recipe saving
-* Recipe importing
-* Recipe URL parsing
-* Recipe video link parsing
-* Recipe organization
-* Recipe folders or collections
-* Meal planning
-* Grocery lists
-* Ingredient extraction
-* Image-based recipe extraction
-* AI-assisted recipe extraction
-* Recipe image and thumbnail storage
-* Cooking instructions
-* Recipe search
-* Recipe recommendations or organization tools
-* User accounts
-* Cloud sync
-* In-app purchases
-* Subscriptions
-* Advertising measurement and attribution
-* Other cooking, recipe, grocery, or lifestyle-related features
+**5.3 Support.** We may provide support, maintenance, updates, or error corrections for the Services from time to time, but we have no obligation to do so except as required by applicable law.
 
-We may add, modify, suspend, or remove features at any time, with or without notice.
+## 6. User Content and Submitted Links
 
-We do not guarantee that the Service or any feature will always be available, uninterrupted, secure, accurate, or error-free.
+**6.1 User Content.** "**User Content**" means any content, data, links, text, images, descriptions, or other materials that you submit to, generate through, import into, or use with the Services, including the links you share and the recipes saved to your account. You are solely responsible for your User Content and for the consequences of submitting it.
 
-## 5. Accounts
+**6.2 Your Responsibility and Representations.** You represent and warrant that: (a) you have all rights, licenses, consents, and permissions necessary for your submission and use of your User Content and the links you share, and for that content to be retrieved, processed, copied, stored, and displayed through the Services as contemplated by these Terms; (b) your submission and use of your User Content and the links you share, and our use of them as permitted here, do not and will not infringe, misappropriate, or violate any intellectual property right, privacy or publicity right, contract right, or other right of any person or entity, or any law; and (c) your use of the Services complies with applicable law and with the terms of service of any third-party platform from which you import content. **You acknowledge that you are solely responsible for ensuring you have the right to import and use any third-party content, and you assume all risk associated with doing so.**
 
-You may need to create an account to use some or all of the Service.
+**6.3 License to Us.** You grant us and our affiliates and service providers a worldwide, non-exclusive, royalty-free, fully paid, transferable, and sublicensable license to host, store, cache, copy, reproduce, process, adapt, reformat, translate, modify, create derivative works of, transmit, and display your User Content, in each case solely as reasonably necessary to operate, provide, secure, improve, and develop the Services and as otherwise described in our Privacy Policy. This license continues for as long as your User Content is stored with us and for a commercially reasonable period thereafter for backup, legal, and operational purposes. You understand that certain images or other content associated with your recipes may be stored using cloud infrastructure and assigned obfuscated, unguessable, but publicly accessible URLs to enable display within the Services. These URLs are not intended to make your content searchable or publicly listed, but anyone with the specific URL may be able to access the associated content.
 
-You agree to provide accurate information and to keep your account information current.
+**6.4 Feedback.** If you provide us any feedback, ideas, or suggestions about the Services ("**Feedback**"), you hereby assign to us all rights in the Feedback, and we may use it for any purpose without restriction, attribution, or compensation to you.
 
-You are responsible for maintaining the confidentiality of your account credentials and for all activity under your account.
+**6.5 No Obligation to Monitor.** We have the right, but not the obligation, to review, screen, refuse, remove, restrict, or modify any User Content at our sole discretion and at any time, including content we believe violates these Terms or applicable law. We are not responsible for, and do not endorse, any User Content.
 
-You agree to notify us if you believe your account has been accessed without authorization.
+## 7. AI-Generated and Automated Content
 
-We are not responsible for losses or damages resulting from unauthorized account access caused by your failure to protect your credentials, device, or account.
+Portions of the Services use, and produce output created with, automated systems, machine learning, and third-party artificial intelligence and large language models (including, for example, OpenAI). **You acknowledge and agree that:**
 
-We may suspend, restrict, or terminate your account if we believe you have violated these Terms, used the Service unlawfully or abusively, created risk for the Service or others, or if we are required to do so by law or platform requirements.
+- Recipes, ingredient lists, quantities, instructions, preparation and cook times, nutritional and macronutrient estimates (such as calories, fat, carbohydrates, and protein), and other output may be **generated, estimated, summarized, transcribed, or inferred** by automated systems and **may be inaccurate, incomplete, outdated, misleading, or wrong**;
+- AI output may not match the original source, may omit or misstate ingredients (including allergens), and may reflect biases present in training data;
+- We do not review or verify AI-generated output and make no representation or warranty as to its accuracy, completeness, reliability, or usefulness; and
+- You use AI-generated output entirely at your own risk and are solely responsible for independently verifying any recipe, ingredient, quantity, instruction, or nutritional value before relying on it, preparing or consuming any food, or making any decision.
 
-## 6. User Content
+## 8. Health, Nutrition, Dietary, and Food-Safety Disclaimer
 
-You may submit, save, upload, import, create, organize, or store content through the Service, including recipe URLs, recipe video links, recipe text, ingredients, instructions, images, screenshots, photos, recipe video thumbnails, notes, folders, grocery lists, meal plans, and other information (“User Content”).
+**The Services are provided for general informational and convenience purposes only and do not provide medical, nutritional, dietary, health, or professional advice.** We are not a medical, nutritional, or healthcare provider, and no doctor-patient, dietitian-client, or other professional relationship is created by your use of the Services.
 
-You are solely responsible for your User Content.
+- **Not medical or nutritional advice.** Always seek the advice of a qualified physician, registered dietitian, or other qualified professional before beginning, changing, or relying on any diet, meal plan, or nutritional program, and with any questions you may have regarding your health or a medical condition. Never disregard professional advice or delay seeking it because of anything you read or obtain through the Services.
+- **Nutritional information.** Any nutritional or macronutrient information (including calories, fat, carbohydrates, and protein) is an **estimate only**, is frequently generated or approximated by automated systems, and may be inaccurate. Do not rely on it for medical, dietary, or health decisions.
+- **Allergens and food safety.** **You are solely responsible for knowing about any food allergies, intolerances, sensitivities, dietary restrictions, or medication interactions you or others may have, and for verifying all ingredients, contents, and preparation before handling, preparing, cooking, serving, or consuming any food.** We make no representations and expressly disclaim all responsibility with respect to food safety, allergens, ingredient accuracy, and contraindications to medications. **The Services are not designed to identify, screen for, or warn about allergens, unsafe ingredients, contamination risks, or dietary conflicts.**
+- **Assumption of risk.** Cooking and food preparation carry inherent risks. You voluntarily assume all known and unknown risks associated with preparing and consuming any food based on or related to the Services.
 
-You represent and warrant that:
+## 9. Intellectual Property
 
-* You own or have the necessary rights to submit and use your User Content.
-* Your User Content does not violate any law or regulation.
-* Your User Content does not infringe or misappropriate any copyright, trademark, privacy, publicity, or other rights.
-* Your User Content does not violate any third-party website terms, platform rules, or content restrictions.
-* Your User Content does not violate these Terms.
-* Your User Content is not unlawful, harmful, abusive, defamatory, obscene, misleading, or otherwise objectionable.
-* Your User Content does not include personal, sensitive, confidential, medical, legal, financial, or emergency information unless you have all rights and permissions necessary to submit it.
+**9.1 Our Content.** "**Content**" means all content and materials available through the Services. Excluding User Content, all Content and all intellectual property rights in the Services — including copyrights, patents, trademarks, trade dress, trade secrets, software, designs, graphics, text, and their selection and arrangement ("**Inspo Content**") — are owned by us or our licensors and are protected by law. No rights are granted to you except as expressly set out in these Terms, and all rights are reserved.
 
-You retain any rights you have in your User Content.
+**9.2 Trademarks.** "Inspo" and our logos and marks are our trademarks. You may not use them without our prior written permission. Other names and marks are the property of their respective owners, and your import or display of third-party content does not grant you any rights in any third-party marks.
 
-By submitting User Content to the Service, you grant PineconeLabs a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to host, store, reproduce, process, transmit, display, modify, resize, crop, compress, parse, analyze, format, and use your User Content solely as necessary to operate, provide, maintain, secure, support, and improve the Service.
+## 10. Third-Party Content, Platforms, and Links
 
-This license includes the right to process and store uploaded images, screenshots, photos, recipe text, submitted URLs, video links, and video thumbnails for recipe extraction, recipe display, saved recipe functionality, cloud sync, and related app features.
+**10.1 No Affiliation.** Inspo is not affiliated with, endorsed by, sponsored by, or in any way officially connected with Instagram, TikTok, Facebook, YouTube, Pinterest, Meta, Google, Apple, or any other platform, website, or content creator from which content may be imported. All product names, logos, trademarks, and brands are the property of their respective owners and are used for identification purposes only.
 
-We may remove, restrict, disable, or refuse to process any User Content at any time if we believe it violates these Terms, creates risk, infringes rights, violates law, or may harm the Service, users, source websites, third parties, or PineconeLabs.
+**10.2 Third-Party Content Provided "As Is".** Recipes, captions, images, videos, audio, transcripts, text, and other materials imported from or located on third-party platforms or websites are created by third parties, not by us. We do not create, review, screen, verify, endorse, or guarantee any such content, and we are not responsible for it. Your access to and use of third-party content is at your own risk and may be subject to the terms and policies of the originating platform, which you are responsible for complying with.
 
-## 7. URL Submission and Third-Party Recipe Content
+**10.3 Third-Party Links and Services.** The Services may link to or interoperate with third-party websites, products, and services that we do not control. We are not responsible for the availability, accuracy, content, products, services, or practices of any third party, and your use of them is at your own risk and subject to their terms and privacy policies.
 
-Inspo may allow you to submit URLs from third-party websites so the Service can fetch, parse, extract, summarize, reformat, or organize recipe-related information.
+**10.4 Copyright Complaints (DMCA).** We respect intellectual property rights and respond to clear notices of alleged infringement. If you believe content available through the Services infringes your copyright, please send a notice to us at **insporecipeapp@gmail.com** that includes: (a) identification of the copyrighted work claimed to be infringed; (b) identification of the allegedly infringing material and information reasonably sufficient to locate it; (c) your contact information; (d) a statement that you have a good-faith belief the use is not authorized by the copyright owner, its agent, or the law; (e) a statement, made under penalty of perjury, that the information in your notice is accurate and that you are the copyright owner or authorized to act on the owner's behalf; and (f) your physical or electronic signature. We may, in appropriate circumstances, remove allegedly infringing content and terminate the accounts of repeat infringers.
 
-You are responsible for ensuring that any URL you submit and any content you import, save, or use through the Service is lawful and does not violate any third-party rights, website terms, copyright restrictions, access restrictions, or other restrictions.
+## 11. Premium Subscriptions, Payments, and App Stores
 
-We do not control third-party websites or content.
+**11.1 Premium Services.** We may offer paid subscriptions and other premium features ("**Premium Services**") for a fee. We may change the features, availability, and pricing of Premium Services at any time.
 
-We do not guarantee that third-party recipe content will be accurate, complete, available, lawful, current, safe, or suitable for your use.
+**11.2 Subscriptions Are Managed by the App Provider.** Your subscription is purchased through, billed by, and managed by the app store associated with your operating system — the **Apple App Store** on iOS and **Google Play** on Android (each an "**App Provider**") — using the payment method on file with that App Provider. Your subscription is governed by the App Provider's terms in addition to these Terms, and **we do not process payments, store your payment details, or directly manage your subscription, billing, cancellations, or refunds.** **Subscriptions automatically renew** at the then-current price at the start of each billing period (for example, monthly or annually) **unless you cancel through the App Provider before the end of the current period.** By subscribing, you authorize the recurring charge until you cancel.
 
-We may refuse, limit, remove, disable, or stop processing any URL or content at any time.
+**11.3 Free Trials and Promotional Offers.** We may offer free trials, introductory pricing, discounts, coupons, or special offers, which may be subject to additional terms and eligibility requirements (for example, only for users not already subscribed). Unless you cancel before a free trial or promotional period ends, your subscription will automatically convert to a paid subscription and you will be charged the applicable fee. It is your responsibility to cancel before the end of any trial or promotional period if you do not wish to be charged. Promotional offers cannot be combined, are non-transferable, and have no cash value.
 
-Third-party websites may change, block, restrict, remove, or limit access to their content at any time.
+**11.4 Cancellation.** Cancellations are handled by the App Provider, not by us. You can cancel your subscription at any time through the subscription settings of the Apple App Store (iOS) or Google Play (Android) where you purchased it; **we are unable to cancel your subscription for you.** Cancellation takes effect at the end of the current billing period, and you will retain access to the Premium Services through that date. **Deleting the app or your account does not cancel your subscription.**
 
-Inspo is not responsible for third-party websites, third-party content, recipe source websites, external links, website terms, copyright restrictions, or the availability or accuracy of imported content.
+**11.5 Refunds.** Refunds are handled solely by the App Provider in accordance with its own policies, over which we have no control. **Except where required by applicable law, all purchases and fees are final and non-refundable, and we do not provide refunds.** Any refunds, credits, billing issues, or subscription disputes must be requested directly from the applicable App Provider (the Apple App Store or Google Play), and are subject to that App Provider's policies.
 
-## 8. AI-Based Recipe Extraction
+**11.6 Price Changes.** We may change prices for Premium Services at any time, to the extent permitted by law. We will provide reasonable notice of material price changes, and continued use after a price change takes effect constitutes acceptance of the new price. If you do not agree, you may cancel before the change takes effect. Price changes may also be subject to the applicable App Provider's notice, consent, and billing rules.
 
-Inspo may use artificial intelligence, including OpenAI, to help extract, parse, summarize, format, or organize recipe-related information from URLs, images, screenshots, photos, video thumbnails, recipe text, or other content you submit.
+**11.7 App Store Terms.** These Terms are between you and us, not with any App Provider, and the App Provider is not responsible for the Services. Your use of the app must comply with the applicable App Provider's terms. The App Provider has no warranty, support, or maintenance obligations with respect to the app. The App Providers and their subsidiaries are third-party beneficiaries of these Terms with respect to your license to use the app, and may enforce these Terms against you.
 
-AI-generated or AI-assisted outputs may be inaccurate, incomplete, misleading, outdated, unsafe, or unsuitable for your circumstances.
+## 12. Acceptable Use
 
-You are solely responsible for reviewing and verifying all AI-generated or AI-assisted recipe information, including ingredients, instructions, cooking times, temperatures, nutrition information, allergens, grocery items, and dietary suitability.
+You agree not to use the Services to: (a) violate any law or regulation or any third party's rights; (b) infringe or misappropriate any intellectual property or other right; (c) upload, transmit, or import content that is unlawful, infringing, defamatory, harassing, abusive, harmful, deceptive, or that you do not have the right to submit; (d) impersonate any person or misrepresent your affiliation; (e) interfere with, disrupt, attack, or compromise the integrity or security of the Services; (f) engage in scraping, data mining, or unauthorized automated access; (g) use the Services for any commercial purpose not expressly authorized by us; (h) use the Services to operate a commercial recipe database, content-scraping operation, meal-planning business, or competing product or service without our prior written permission; or (i) attempt to do any of the foregoing. We may investigate and take any action we deem appropriate, including removing content and suspending or terminating accounts.
 
-Do not submit personal, sensitive, confidential, medical, legal, financial, or emergency information for AI-based recipe extraction.
+## 13. Disclaimers
 
-PineconeLabs is not responsible for any action you take or do not take based on AI-generated or AI-assisted outputs.
+**TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SERVICES AND ALL CONTENT ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND.** WE, ON BEHALF OF OURSELVES AND OUR AFFILIATES, LICENSORS, AND SERVICE PROVIDERS, EXPRESSLY DISCLAIM ALL WARRANTIES, REPRESENTATIONS, AND CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, ACCURACY, AND NON-INFRINGEMENT.
 
-## 9. Image Uploads, Screenshots, and Video Thumbnails
+WITHOUT LIMITING THE FOREGOING, WE MAKE NO WARRANTY THAT: (A) THE SERVICES OR ANY CONTENT (INCLUDING ANY RECIPE, INGREDIENT, INSTRUCTION, TIME, OR NUTRITIONAL OR MACRONUTRIENT ESTIMATE) WILL BE ACCURATE, COMPLETE, RELIABLE, CURRENT, OR ERROR-FREE; (B) THE SERVICES WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE, UNINTERRUPTED, SECURE, OR FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR (C) ANY ERRORS WILL BE CORRECTED. ANY MATERIAL OBTAINED THROUGH THE SERVICES IS ACCESSED AT YOUR OWN RISK, AND YOU ARE SOLELY RESPONSIBLE FOR ANY RESULTING DAMAGE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM US OR THROUGH THE SERVICES, CREATES ANY WARRANTY NOT EXPRESSLY STATED HEREIN.
 
-Inspo may allow you to upload images, screenshots, photos, or submit video links so the Service can extract, organize, or display recipe-related information.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES, SO SOME OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU. IN THAT CASE, SUCH WARRANTIES ARE LIMITED TO THE MINIMUM SCOPE AND DURATION PERMITTED BY LAW.
 
-You are responsible for ensuring that you have the rights and permissions necessary to upload, submit, store, process, and use those images, screenshots, photos, or thumbnails.
+## 14. Limitation of Liability
 
-You should not upload or submit images that contain personal, sensitive, confidential, medical, legal, financial, or emergency information.
+**TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL INSPO OR ITS AFFILIATES, LICENSORS, OR SERVICE PROVIDERS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, PUNITIVE, OR RELIANCE DAMAGES; FOR ANY LOSS OF PROFITS, REVENUE, DATA, GOODWILL, OR OTHER INTANGIBLE LOSSES; OR FOR ANY DAMAGES RELATING TO (A) YOUR ACCESS TO, USE OF, OR INABILITY TO ACCESS OR USE THE SERVICES; (B) ANY CONTENT, INCLUDING ANY RECIPE, NUTRITIONAL OR MACRONUTRIENT ESTIMATE, INGREDIENT, OR INSTRUCTION, OR ANY RELIANCE THEREON; (C) ANY FOOD PREPARED OR CONSUMED, OR ANY ALLERGIC, HEALTH, OR OTHER REACTION; (D) ANY THIRD-PARTY CONTENT, PLATFORM, OR SERVICE; OR (E) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY OR USER — IN EACH CASE WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, STATUTE, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE.**
 
-We do not guarantee that image-based extraction, video thumbnail processing, visual recognition, or AI-assisted extraction features will be accurate, complete, safe, or suitable for your use.
+**TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL AGGREGATE LIABILITY OF INSPO AND ITS AFFILIATES, LICENSORS, AND SERVICE PROVIDERS FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR THE SERVICES WILL NOT EXCEED THE GREATER OF (I) THE TOTAL AMOUNT YOU PAID US FOR THE SERVICES IN THE TWELVE (12) MONTHS IMMEDIATELY BEFORE THE EVENT GIVING RISE TO THE CLAIM, OR (II) ONE HUNDRED U.S. DOLLARS (US $100.00).**
 
-We may store uploaded images and video thumbnails as part of your saved recipes, recipe extraction history, recipe display, cloud sync, or related app functionality.
+You acknowledge that we offer the Services and set our prices in reliance on these disclaimers and limitations, that they reflect a reasonable allocation of risk, and that they form an essential basis of the bargain between us. Some jurisdictions do not allow certain limitations of liability, so some of the above may not apply to you; in that case, our liability is limited to the maximum extent permitted by law.
 
-We may remove or refuse to process images or thumbnails that we believe violate these Terms, create risk, infringe rights, violate law, or may harm the Service, users, source websites, third parties, or PineconeLabs.
+## 15. Indemnification
 
-## 10. Food, Nutrition, Allergy, and Health Disclaimer
+To the maximum extent permitted by applicable law, you agree to defend, indemnify, and hold harmless Inspo and its affiliates, officers, directors, employees, agents, licensors, and service providers from and against any and all claims, liabilities, damages, losses, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to: (a) your User Content or the links or content you submit, import, or share; (b) your use of or access to the Services; (c) your violation of these Terms; (d) your violation of any law or any right of any third party (including intellectual property, privacy, publicity, or contract rights); or (e) any food prepared or consumed in connection with the Services. We may assume the exclusive defense and control of any matter subject to indemnification by you, and you agree to cooperate. You may not settle any matter without our prior written consent. This section survives termination.
 
-The Service may provide, display, parse, estimate, organize, or extract recipe, ingredient, grocery, calorie, nutrition, allergen, dietary, or cooking-related information.
+## 16. Term and Termination
 
-This information may come from third-party websites, user submissions, uploaded images, screenshots, video thumbnails, automated extraction, AI processing, third-party providers, or other sources.
+These Terms remain in effect while you use the Services. We may suspend, restrict, or terminate your access to all or part of the Services at any time, with or without notice, for any reason, including if we believe you have violated these Terms or to protect the Services or other users. You may stop using the Services and delete your account at any time. Upon termination, your right to access the Services ceases. Sections that by their nature should survive termination will survive, including Sections 5–6, 7–15, 17–19, and 21.
 
-We do not guarantee that any recipe, ingredient, nutrition, calorie, allergen, dietary, grocery, or cooking information is accurate, complete, current, safe, lawful, or suitable for you.
+## 17. Governing Law
 
-Ingredient lists may be incomplete or incorrect. Nutrition values may be estimates. Allergen information may be missing, incomplete, or inaccurate. Cooking instructions may be incomplete, unsafe, or unsuitable for your equipment, ingredients, location, or circumstances.
+These Terms and any Dispute (defined below) are governed by the laws of the **State of New York, United States**, and applicable U.S. federal law, without regard to conflict-of-laws principles. Subject to Section 18, the exclusive jurisdiction and venue for any matter not subject to arbitration will be the state and federal courts located in **Kings County (Brooklyn), New York**, and you consent to personal jurisdiction there.
 
-You are solely responsible for:
+## 18. Dispute Resolution; Binding Arbitration; Class Action and Jury Trial Waiver
 
-* Verifying ingredients
-* Checking allergens
-* Reviewing nutrition information
-* Following safe food handling practices
-* Cooking food to safe temperatures
-* Determining dietary suitability
-* Consulting qualified professionals where appropriate
+**PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT AND TO HAVE A JURY HEAR YOUR CLAIMS.**
 
-Do not rely on Inspo for medical, nutrition, dietetic, allergy, food safety, weight loss, pregnancy-related, or health advice.
+**18.1 Scope.** This Section applies to any dispute, claim, or controversy of any kind between you and Inspo arising out of or relating in any way to these Terms, the Services, our marketing, our privacy and data practices, or any interaction with us, whether based in contract, tort, statute, or any other legal theory (each, a "**Dispute**"), to the fullest extent permitted by law.
 
-## 11. Purchases, Subscriptions, and Billing
+**18.2 Informal Resolution First.** Before initiating arbitration, you and we agree to first try to resolve the Dispute informally for at least sixty (60) days after written notice. You must send notice describing the Dispute and the relief sought to **insporecipeapp@gmail.com** (and we will send notice to your account email). This informal process is a condition precedent to commencing arbitration, and any applicable limitations period is tolled during it.
 
-Inspo may offer paid features, in-app purchases, free trials, or subscriptions.
+**18.3 Binding Arbitration.** If the Dispute is not resolved, **you and we agree that the Dispute will be resolved exclusively through final and binding individual arbitration**, rather than in court, except as provided below. The arbitration will be governed by the Federal Arbitration Act and administered by the American Arbitration Association (AAA) under its Consumer Arbitration Rules then in effect (available at www.adr.org). The arbitrator has exclusive authority to resolve any Dispute, including the arbitrability of any Dispute and the validity of this Section. The arbitrator's award is final and binding and may be entered as a judgment in any court of competent jurisdiction.
 
-Purchases and subscriptions are processed by the applicable app store, such as the Apple App Store or Google Play. Your purchase is also subject to the app store’s terms, conditions, billing rules, cancellation rules, and refund policies.
+**18.4 Class Action and Jury Trial Waiver.** **YOU AND INSPO AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS, CONSOLIDATED, COLLECTIVE, OR REPRESENTATIVE ACTION. YOU AND INSPO WAIVE ANY RIGHT TO A TRIAL BY JURY.** The arbitrator may not consolidate more than one person's claims or preside over any form of representative or class proceeding. If this waiver is found unenforceable as to a particular Dispute, that Dispute (and only that Dispute) will proceed in court under Section 17, with the jury-trial waiver still applying.
 
-Subscription pricing, duration, free trials, renewal terms, and available products may be displayed in the app or app store purchase flow.
+**18.5 Exceptions.** Either party may (a) bring an individual claim in small claims court if it qualifies, or (b) seek injunctive or other equitable relief in a court of competent jurisdiction for actual or threatened infringement or misuse of intellectual property or confidential information.
 
-Unless canceled before the end of the applicable billing period or trial period, subscriptions may automatically renew according to the terms shown at the time of purchase.
+**18.6 Mass Arbitration / Batching.** If twenty-five (25) or more similar Disputes are asserted against the same party by the same or coordinated counsel, you and Inspo agree that such Disputes will be resolved in staged batches rather than all at once. The arbitration provider will randomly assign the Disputes into sequential batches of no more than fifty (50) Disputes each (or such other number as the parties agree), and only one batch will be filed, administered, and have arbitration fees assessed at a time. A single arbitrator will preside over each batch, and the parties will engage in a global mediation of the remaining Disputes before subsequent batches proceed. Any applicable limitations period and filing-fee deadline is tolled for Disputes awaiting their batch. This batching procedure is intended to increase efficiency and reduce costs for both parties, and a court of competent jurisdiction has authority to enforce it, including by enjoining the filing or fee assessment of Disputes other than in accordance with this Section. This Section 18.6 does not modify the Class Action and Jury Trial Waiver in Section 18.4, which remains in full effect.
 
-You are responsible for managing and canceling your subscription through your app store account settings.
+**18.7 30-Day Opt-Out.** You may opt out of this arbitration agreement (Sections 18.3, 18.4, and 18.6) within **thirty (30) days** of first accepting these Terms by sending written notice to **insporecipeapp@gmail.com** that includes your name, the email associated with your account, and a clear statement that you wish to opt out of arbitration. If you opt out, the remaining provisions of this Section and these Terms still apply.
 
-We do not control app store billing, refund decisions, payment methods, taxes, or subscription management tools.
+**18.8 Time Limit.** To the fullest extent permitted by law, any Dispute must be commenced within **one (1) year** after it accrues, or it is permanently barred.
 
-All purchases are final except as required by applicable law or app store policy.
+**18.9 Survival.** This Section survives termination of these Terms and your use of the Services.
 
-## 12. Free Trials and Promotional Offers
+## 19. Changes to These Terms
 
-We may offer free trials, discounts, introductory pricing, promotional offers, or limited-time offers.
+We may modify these Terms at any time in our sole discretion. If we make material changes, we will provide notice by reasonable means (such as in-app notice or by updating the "Effective Date" above). Changes are effective when posted unless otherwise stated. **By continuing to access or use the Services after changes take effect, you agree to be bound by the modified Terms.** If you do not agree, you must stop using the Services and delete your account.
 
-Offer terms may vary by user, region, platform, app version, eligibility, or time period.
+## 20. Electronic Communications and Notices
 
-We may modify, revoke, or discontinue offers at any time, except where prohibited by law.
+By using the Services, you consent to receive communications from us electronically (such as in-app messages, push notifications, and emails), and you agree that all agreements, notices, disclosures, and other communications we provide electronically satisfy any legal requirement that they be in writing. Notices to you are deemed received when sent or displayed; notices to us must be sent to **insporecipeapp@gmail.com**.
 
-If you start a free trial, you may be charged when the trial ends unless you cancel before the deadline shown in the app store purchase flow.
+## 21. Miscellaneous
 
-## 13. Advertising, Attribution, and Tracking
+These Terms, together with the Privacy Policy and any additional terms applicable to specific features, constitute the entire agreement between you and us regarding the Services and supersede all prior agreements. Our failure to enforce any right or provision is not a waiver. If any provision is held invalid or unenforceable, it will be modified to the minimum extent necessary or severed, and the remaining provisions will remain in full force and effect. You may not assign or transfer these Terms without our prior written consent; we may freely assign them, including in connection with a merger, acquisition, financing, or sale of assets. Nothing in these Terms creates any partnership, joint venture, employment, or agency relationship. We are not liable for any failure or delay caused by events beyond our reasonable control. Section headings are for convenience only.
 
-The Service may use advertising, analytics, attribution, and measurement tools.
-
-These tools may help us measure installs, purchases, subscriptions, app events, campaign performance, and advertising effectiveness.
-
-On iOS, where required, we may ask for permission through Apple’s App Tracking Transparency prompt before tracking your activity across other companies’ apps and websites for advertising or measurement purposes.
-
-You can manage app tracking and advertising preferences through your device settings.
-
-We are not responsible for third-party advertising platforms, their data practices, their campaign systems, or their terms and policies.
-
-## 14. Third-Party Services
-
-The Service may rely on or integrate with third-party services, including providers that support:
-
-* Authentication
-* Cloud database storage
-* Cloud functions and backend infrastructure
-* File and image storage
-* Analytics
-* Purchases and subscriptions
-* Advertising measurement and attribution
-* URL parsing and recipe extraction
-* Image processing and recipe extraction
-* Artificial intelligence and machine learning functionality
-* App distribution
-* Infrastructure
-* Security
-* Compliance
-* Customer support
-
-Third-party services are not controlled by PineconeLabs. Your use of third-party services may be subject to their own terms, policies, and practices.
-
-We are not responsible for third-party services, data practices, content, availability, accuracy, failures, outages, or actions.
-
-## 15. Acceptable Use
-
-You agree to use the Service only for lawful purposes and in accordance with these Terms.
-
-You agree not to:
-
-* Use the Service to violate any law or regulation
-* Use the Service to infringe or misappropriate intellectual property rights
-* Submit, save, import, upload, or distribute content you do not have the right to use
-* Submit URLs or content in a way that violates third-party website terms or restrictions
-* Use the Service to scrape, copy, or extract content unlawfully
-* Use the Service as a substitute for medical, dietary, nutritional, allergy, food safety, legal, financial, or professional advice
-* Submit personal, sensitive, confidential, medical, legal, financial, or emergency information into the Service
-* Use the Service to harm yourself or others
-* Reverse engineer, decompile, disassemble, or attempt to extract source code from the Service
-* Copy, modify, distribute, sell, lease, or sublicense any part of the Service
-* Interfere with or disrupt the Service
-* Attempt to bypass security, subscription, purchase, tracking, or access controls
-* Use automated systems to access the Service without permission
-* Misrepresent your identity or affiliation
-* Use the Service in a way that could damage PineconeLabs, users, service providers, source websites, or third parties
-
-We reserve the right to suspend, restrict, or terminate access to the Service if we believe you have violated these Terms or used the Service in a harmful, unlawful, or abusive way.
-
-## 16. Ownership and Intellectual Property
-
-The Service, including all software, designs, graphics, text, features, interfaces, content, trademarks, logos, and other materials, is owned by PineconeLabs or its licensors and is protected by intellectual property and other laws.
-
-Except as expressly allowed by these Terms, you may not copy, modify, distribute, sell, lease, sublicense, reverse engineer, or create derivative works based on the Service.
-
-Subject to your compliance with these Terms, PineconeLabs grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable, revocable license to use the Service for your personal, non-commercial use.
-
-## 17. Third-Party Content and Intellectual Property
-
-The Service may display, organize, summarize, extract, or store content from third-party websites or sources at your direction.
-
-All third-party content remains the property of its respective owners.
-
-Inspo does not claim ownership of third-party recipes, websites, images, videos, thumbnails, trademarks, logos, or other materials.
-
-You are responsible for respecting third-party intellectual property rights and website terms.
-
-We may remove, restrict, or disable content if we believe it may infringe rights, violate law, violate these Terms, or create risk for PineconeLabs, users, service providers, source websites, or third parties.
-
-## 18. Feedback
-
-If you send us feedback, suggestions, ideas, bug reports, feature requests, or other comments, you grant PineconeLabs a worldwide, perpetual, irrevocable, royalty-free, fully paid, sublicensable, and transferable license to use, copy, modify, distribute, display, perform, and otherwise exploit that feedback for any purpose without compensation or obligation to you.
-
-## 19. Privacy
-
-Your use of the Service is also governed by our Privacy Policy.
-
-Please review the Privacy Policy to understand how information may be collected, used, processed, and shared.
-
-## 20. Disclaimers
-
-To the maximum extent permitted by law, the Service is provided on an “AS IS,” “AS AVAILABLE,” and “WITH ALL FAULTS” basis.
-
-PineconeLabs disclaims all warranties, whether express, implied, statutory, or otherwise, including warranties of merchantability, fitness for a particular purpose, title, non-infringement, accuracy, availability, reliability, security, and uninterrupted operation.
-
-We do not warrant that:
-
-* The Service will meet your needs or expectations
-* The Service will be accurate, reliable, complete, safe, secure, uninterrupted, or error-free
-* Recipe information will be accurate, complete, current, lawful, or available
-* URL parsing will work for any particular website or recipe
-* AI-generated or AI-assisted outputs will be accurate, complete, safe, or useful
-* Image-based extraction will be accurate, complete, or reliable
-* Imported content will match the original source
-* Uploaded images or thumbnails will be processed correctly
-* Nutrition, calorie, ingredient, allergen, dietary, grocery, or cooking information will be accurate or safe
-* Any recipe will be safe, suitable, healthy, or appropriate for you
-* Any defects or errors will be corrected
-* The Service will be free from viruses, harmful code, or security vulnerabilities
-* Third-party services, websites, app stores, or providers will be available or error-free
-
-You use the Service at your own risk.
-
-## 21. Limitation of Liability
-
-To the maximum extent permitted by law, PineconeLabs and its owners, members, managers, officers, directors, employees, contractors, agents, affiliates, licensors, and service providers will not be liable for any indirect, incidental, special, consequential, exemplary, punitive, or enhanced damages, including lost profits, lost revenue, lost data, loss of goodwill, personal injury, food-related harm, allergic reaction, illness, property damage, or other intangible losses, arising out of or related to your use of or inability to use the Service.
-
-To the maximum extent permitted by law, PineconeLabs will not be liable for any damages arising from:
-
-* Your reliance on any recipe, ingredient, nutrition, calorie, allergen, dietary, grocery, meal planning, or cooking information
-* Your reliance on AI-generated or AI-assisted outputs
-* Any medical, dietary, nutritional, allergy, food safety, legal, financial, professional, or safety-related decision
-* Any food preparation, cooking, ingredient, allergen, or consumption decision
-* Any action you take or do not take based on the Service
-* Any URL parsing, recipe importing, image processing, video thumbnail processing, AI processing, or third-party website content
-* Any third-party service, source website, ad platform, analytics provider, app store, payment processor, AI provider, or service provider
-* Any unauthorized access, security incident, data loss, or service interruption
-* Any user content or submitted information
-* Any failure of the Service to meet your expectations
-
-To the maximum extent permitted by law, PineconeLabs’ total liability for all claims arising out of or related to the Service or these Terms will not exceed the greater of:
-
-* The amount you paid to PineconeLabs for the Service in the twelve months before the claim arose; or
-* One hundred U.S. dollars ($100)
-
-Some jurisdictions do not allow certain limitations of liability, so some of the above limitations may not apply to you.
-
-## 22. Indemnification
-
-To the maximum extent permitted by law, you agree to defend, indemnify, and hold harmless PineconeLabs and its owners, members, managers, officers, directors, employees, contractors, agents, affiliates, licensors, and service providers from and against any claims, liabilities, damages, losses, costs, expenses, and fees, including reasonable attorneys’ fees, arising out of or related to:
-
-* Your use or misuse of the Service
-* Your violation of these Terms
-* Your violation of any law or regulation
-* Your violation of any rights of another person or entity
-* Your User Content
-* Any URL, recipe, ingredient, image, screenshot, photo, video link, video thumbnail, text, or other content you submit, save, import, upload, or use
-* Your reliance on any Service content
-* Your reliance on AI-generated or AI-assisted outputs
-* Your use of the Service for medical, dietary, nutritional, allergy, food safety, legal, financial, or professional purposes
-* A minor’s use of the Service where you are the parent or legal guardian
-
-We reserve the right to control the defense of any matter subject to indemnification, and you agree to cooperate with our defense.
-
-## 23. App Store Terms
-
-If you downloaded the Service from the Apple App Store, Google Play, or another app store, your use of the Service is also subject to the applicable app store terms.
-
-The app store provider is not responsible for the Service or its content.
-
-The app store provider may be a third-party beneficiary of these Terms and may have the right to enforce these Terms against you where applicable.
-
-You are responsible for complying with all applicable third-party terms when using the Service.
-
-## 24. Termination
-
-You may stop using the Service at any time.
-
-We may suspend, restrict, or terminate your access to the Service at any time, with or without notice, if we believe:
-
-* You violated these Terms
-* You used the Service unlawfully, abusively, or harmfully
-* Your use creates risk for PineconeLabs, users, service providers, source websites, or third parties
-* We need to comply with law or app store requirements
-* We discontinue or modify the Service
-
-Upon termination, the rights granted to you under these Terms will end immediately.
-
-Sections that by their nature should survive termination will survive, including ownership, user content licenses, disclaimers, limitation of liability, indemnification, dispute resolution, and governing law provisions.
-
-## 25. Governing Law
-
-These Terms are governed by the laws of the State of New York, without regard to conflict of law principles.
-
-If you are a consumer residing in a jurisdiction that requires different governing law protections, those protections may apply to the extent required by law.
-
-## 26. Dispute Resolution and Arbitration
-
-Please read this section carefully. It may require you to arbitrate disputes with PineconeLabs and may limit the manner in which you can seek relief.
-
-To the maximum extent permitted by law, any dispute, claim, or controversy arising out of or relating to these Terms or the Service will be resolved by binding arbitration on an individual basis, rather than in court, except that either party may bring an individual claim in small claims court if eligible.
-
-You and PineconeLabs agree to waive any right to a jury trial.
-
-You and PineconeLabs agree that each may bring claims against the other only in an individual capacity and not as a plaintiff or class member in any purported class, collective, consolidated, private attorney general, or representative proceeding.
-
-The arbitration will be conducted by a neutral arbitrator under rules selected by PineconeLabs, unless applicable law requires otherwise.
-
-The arbitrator will have authority to award the same damages and relief that a court could award on an individual basis, subject to the limitations in these Terms.
-
-If this arbitration agreement is found unenforceable, then disputes will be resolved in the state or federal courts located in New York County, New York, except where applicable law requires otherwise.
-
-## 27. Class Action Waiver
-
-To the maximum extent permitted by law, you and PineconeLabs agree that any proceedings to resolve disputes will be conducted only on an individual basis and not in a class, consolidated, collective, representative, or private attorney general action.
-
-If a court or arbitrator determines that this class action waiver is unenforceable with respect to a particular claim, then that claim must be severed and resolved in court, while any remaining claims must be arbitrated.
-
-## 28. Export and Legal Compliance
-
-You agree to comply with all applicable laws and regulations when using the Service.
-
-You may not use, export, re-export, or transfer the Service in violation of applicable export control, sanctions, or trade laws.
-
-## 29. Severability
-
-If any provision of these Terms is found to be invalid, illegal, or unenforceable, that provision will be enforced to the maximum extent permitted by law, and the remaining provisions will remain in full force and effect.
-
-## 30. No Waiver
-
-Our failure to enforce any provision of these Terms does not constitute a waiver of that provision or any other provision.
-
-## 31. Assignment
-
-You may not assign or transfer these Terms or your rights or obligations under these Terms without our prior written consent.
-
-We may assign or transfer these Terms, in whole or in part, without restriction, including in connection with a merger, acquisition, financing, reorganization, sale of assets, or by operation of law.
-
-## 32. Entire Agreement
-
-These Terms, together with the Privacy Policy and any additional terms presented in the Service, constitute the entire agreement between you and PineconeLabs regarding the Service.
-
-## 33. Contact Us
+## 22. Contact Us
 
 If you have questions about these Terms, contact us at:
 
-**PineconeLabs LLC**
-**Email:** [insporecipeapp@gmail.com](mailto:insporecipeapp@gmail.com)
+**Pinecone Labs LLC**
+Brooklyn, NY 11201
+Email: **insporecipeapp@gmail.com**
+
+For legal notices (including notices under Section 18), please send to our registered agent:
+
+Pinecone Labs LLC
+c/o ZenBusiness Inc. (Registered Agent)
+41 State Street, Suite 112
+Albany, NY 12207
